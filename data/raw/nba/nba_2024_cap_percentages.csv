@@ -1,0 +1,517 @@
+,league,season,rank,player,team,position,salary
+0,nba,2024,1,Stephen Curry,GSW,PG,39.66%
+1,nba,2024,2,Joel Embiid,PHI,C,36.57%
+2,nba,2024,,Nikola Jokic,DEN,C,36.57%
+3,nba,2024,4,Kevin Durant,PHX,SF,36.40%
+4,nba,2024,5,Bradley Beal,PHX,SG,35.71%
+5,nba,2024,6,Devin Booker,PHX,SG,35.00%
+6,nba,2024,,Jaylen Brown,BOS,SF,35.00%
+7,nba,2024,,Paul George,PHI,SG,35.00%
+8,nba,2024,,Kawhi Leonard,LAC,SF,35.00%
+9,nba,2024,,Karl-Anthony Towns,NYK,C,35.00%
+10,nba,2024,11,Jimmy Butler,GSW,SF,34.71%
+11,nba,2024,12,Giannis Antetokounmpo,MIL,PF,34.70%
+12,nba,2024,,Damian Lillard,MIL,PG,34.70%
+13,nba,2024,14,LeBron James,LAL,PF,34.66%
+14,nba,2024,15,Zach LaVine,SAC,SG,31.68%
+15,nba,2024,16,Rudy Gobert,MIN,C,31.17%
+16,nba,2024,17,Anthony Davis,DAL,C,30.74%
+17,nba,2024,18,Luka Doncic,LAL,PG,30.61%
+18,nba,2024,,Trae Young,ATL,PG,30.61%
+19,nba,2024,20,Fred VanVleet,HOU,PG,30.48%
+20,nba,2024,21,Anthony Edwards,MIN,SG,30.00%
+21,nba,2024,,Tyrese Haliburton,IND,PG,30.00%
+22,nba,2024,,Lauri Markkanen,UTA,PF,30.00%
+23,nba,2024,,Pascal Siakam,IND,PF,30.00%
+24,nba,2024,25,Kyrie Irving,DAL,PG,28.45%
+25,nba,2024,26,Domantas Sabonis,SAC,C,27.88%
+26,nba,2024,27,Darius Garland,CLE,PG,26.12%
+27,nba,2024,,Ja Morant,MEM,PG,26.12%
+28,nba,2024,,Zion Williamson,NOP,PF,26.12%
+29,nba,2024,30,OG Anunoby,NYK,SF,26.06%
+30,nba,2024,31,Brandon Ingram,TOR,SF,25.62%
+31,nba,2024,,Jamal Murray,DEN,PG,25.62%
+32,nba,2024,33,Shai Gilgeous-Alexander,OKC,PG,25.51%
+33,nba,2024,,Michael Porter Jr.,DEN,SF,25.51%
+34,nba,2024,35,Donovan Mitchell,CLE,SG,25.19%
+35,nba,2024,36,LaMelo Ball,CHA,PG,25.00%
+36,nba,2024,,Tyrese Maxey,PHI,PG,25.00%
+37,nba,2024,38,Bam Adebayo,MIA,C,24.79%
+38,nba,2024,,De'Aaron Fox,SAS,PG,24.79%
+39,nba,2024,,Jayson Tatum,BOS,PF,24.79%
+40,nba,2024,41,Desmond Bane,MEM,SG,24.19%
+41,nba,2024,42,Deandre Ayton,POR,C,24.19%
+42,nba,2024,43,James Harden,LAC,SG,23.94%
+43,nba,2024,44,C.J. McCollum,NOP,SG,23.71%
+44,nba,2024,45,Julius Randle,MIN,PF,23.53%
+45,nba,2024,46,Immanuel Quickley,TOR,PG,23.12%
+46,nba,2024,47,Khris Middleton,WAS,SF,22.05%
+47,nba,2024,48,Isaiah Hartenstein,OKC,C,21.34%
+48,nba,2024,,Jrue Holiday,BOS,PG,21.34%
+49,nba,2024,50,Jerami Grant,POR,PF,21.19%
+50,nba,2024,51,Jordan Poole,WAS,SG,21.09%
+51,nba,2024,52,Devin Vassell,SAS,SG,20.88%
+52,nba,2024,53,Kristaps Porzingis,BOS,PF,20.82%
+53,nba,2024,54,Tyler Herro,MIA,SG,20.63%
+54,nba,2024,55,Dejounte Murray,NOP,PG,20.50%
+55,nba,2024,56,Jonathan Isaac,ORL,PF,19.63%
+56,nba,2024,57,Nicolas Claxton,BKN,C,19.60%
+57,nba,2024,58,Miles Bridges,CHA,SF,19.33%
+58,nba,2024,59,John Collins,UTA,PF,18.91%
+59,nba,2024,60,Andrew Wiggins,MIA,SF,18.69%
+60,nba,2024,61,Anfernee Simons,POR,SG,18.42%
+61,nba,2024,62,R.J. Barrett,TOR,SG,18.35%
+62,nba,2024,63,Tobias Harris,DET,PF,18.04%
+63,nba,2024,64,Jaren Jackson Jr.,MEM,PF,17.97%
+64,nba,2024,65,Jalen Brunson,NYK,PG,17.75%
+65,nba,2024,66,Terry Rozier,MIA,PG,17.73%
+66,nba,2024,67,Kyle Kuzma,MIL,PF,17.40%
+67,nba,2024,68,Draymond Green,GSW,PF,17.15%
+68,nba,2024,69,DeMar DeRozan,SAC,SF,16.64%
+69,nba,2024,70,Mikal Bridges,NYK,SF,16.57%
+70,nba,2024,71,Dillon Brooks,HOU,SF,16.54%
+71,nba,2024,72,Cameron Johnson,BKN,SF,16.40%
+72,nba,2024,73,Bruce Brown Jr.,NOP,SG,16.36%
+73,nba,2024,,Brook Lopez,MIL,C,16.36%
+74,nba,2024,75,Aaron Gordon,DEN,PF,16.25%
+75,nba,2024,76,Kentavious Caldwell-Pope,ORL,SG,16.19%
+76,nba,2024,77,Jaden McDaniels,MIN,PF,16.07%
+77,nba,2024,78,Malcolm Brogdon,WAS,PG,16.00%
+78,nba,2024,79,Clint Capela,ATL,C,15.84%
+79,nba,2024,80,De'Andre Hunter,CLE,SF,15.43%
+80,nba,2024,81,Lonzo Ball,CHI,PG,15.22%
+81,nba,2024,82,Marcus Smart,WAS,PG,14.38%
+82,nba,2024,83,Jarrett Allen,CLE,C,14.23%
+83,nba,2024,,Nikola Vucevic,CHI,C,14.23%
+84,nba,2024,85,Myles Turner,IND,C,14.18%
+85,nba,2024,86,Derrick White,BOS,PG,14.10%
+86,nba,2024,87,Jakob Poeltl,TOR,C,13.87%
+87,nba,2024,88,Duncan Robinson,MIA,SF,13.80%
+88,nba,2024,89,Norman Powell,LAC,SG,13.69%
+89,nba,2024,90,Keldon Johnson,SAS,SF,13.51%
+90,nba,2024,91,D'Angelo Russell,BKN,PG,13.30%
+91,nba,2024,92,Collin Sexton,UTA,PG,12.91%
+92,nba,2024,93,Josh Hart,NYK,SG,12.91%
+93,nba,2024,94,Jusuf Nurkic,CHA,C,12.89%
+94,nba,2024,95,Harrison Barnes,SAS,PF,12.80%
+95,nba,2024,,Patrick Williams,CHI,PF,12.80%
+96,nba,2024,97,Malik Monk,SAC,SG,12.38%
+97,nba,2024,98,Bogdan Bogdanovic,LAC,SG,12.28%
+98,nba,2024,99,Luguentz Dort,OKC,SG,12.09%
+99,nba,2024,,Rui Hachimura,LAL,PF,12.09%
+100,nba,2024,101,Kevin Huerter,CHI,SG,11.97%
+101,nba,2024,102,Zach Collins,CHI,C,11.91%
+102,nba,2024,103,Caris LeVert,ATL,SG,11.82%
+103,nba,2024,104,Tim Hardaway Jr.,DET,SG,11.52%
+104,nba,2024,105,Klay Thompson,DAL,SG,11.29%
+105,nba,2024,106,Grayson Allen,PHX,SG,11.11%
+106,nba,2024,,Deni Avdija,POR,SF,11.11%
+107,nba,2024,108,PJ Washington,DAL,PF,11.03%
+108,nba,2024,109,Max Strus,CLE,SG,10.82%
+109,nba,2024,110,Isaiah Stewart,DET,C,10.67%
+110,nba,2024,111,Dorian Finney-Smith,LAL,PF,10.62%
+111,nba,2024,112,Mitchell Robinson,NYK,C,10.18%
+112,nba,2024,113,Jordan Clarkson,UTA,SG,10.02%
+113,nba,2024,114,Onyeka Okongwu,ATL,C,9.96%
+114,nba,2024,115,Naz Reid,MIN,C,9.95%
+115,nba,2024,116,Cade Cunningham,DET,PG,9.92%
+116,nba,2024,117,Daniel Gafford,DAL,C,9.53%
+117,nba,2024,118,Dennis Schröder,DET,PG,9.26%
+118,nba,2024,,Grant Williams,CHA,PF,9.26%
+119,nba,2024,120,Isaiah Joe,OKC,SG,9.24%
+120,nba,2024,121,Herb Jones,NOP,SF,9.23%
+121,nba,2024,,Austin Reaves,LAL,SG,9.23%
+122,nba,2024,123,Obi Toppin,IND,PF,9.23%
+123,nba,2024,124,Cole Anthony,ORL,PG,9.18%
+124,nba,2024,125,De'Anthony Melton,BKN,SG,9.12%
+125,nba,2024,126,Kelly Olynyk,NOP,PF,9.11%
+126,nba,2024,127,Victor Wembanyama,SAS,C,9.08%
+127,nba,2024,128,Josh Green,CHA,SG,9.00%
+128,nba,2024,129,Richaun Holmes,WAS,C,9.00%
+129,nba,2024,130,Steven Adams,HOU,C,8.96%
+130,nba,2024,131,Bobby Portis,MIL,PF,8.95%
+131,nba,2024,132,Zaccharie Risacher,ATL,SF,8.94%
+132,nba,2024,133,Marvin Bagley III,MEM,PF,8.89%
+133,nba,2024,,Brandon Clarke,MEM,PF,8.89%
+134,nba,2024,135,Jalen Green,HOU,SG,8.88%
+135,nba,2024,136,Robert Williams III,POR,C,8.84%
+136,nba,2024,137,Paolo Banchero,ORL,PF,8.65%
+137,nba,2024,138,Coby White,CHI,PG,8.54%
+138,nba,2024,139,Wendell Carter Jr.,ORL,C,8.50%
+139,nba,2024,140,Ivica Zubac,LAC,C,8.35%
+140,nba,2024,141,Donte DiVincenzo,MIN,SG,8.14%
+141,nba,2024,142,Brandon Miller,CHA,SF,8.13%
+142,nba,2024,143,Terance Mann,ATL,SG,8.13%
+143,nba,2024,144,Alex Sarr,WAS,PF,8.00%
+144,nba,2024,145,Evan Mobley,CLE,PF,7.99%
+145,nba,2024,146,Larry Nance Jr.,ATL,PF,7.97%
+146,nba,2024,147,Matisse Thybulle,POR,SG,7.84%
+147,nba,2024,148,Maxi Kleber,LAL,PF,7.82%
+148,nba,2024,,Aaron Nesmith,IND,SF,7.82%
+149,nba,2024,,Gabe Vincent,LAL,PG,7.82%
+150,nba,2024,,Moritz Wagner,ORL,C,7.82%
+151,nba,2024,152,Chris Paul,SAS,PG,7.81%
+152,nba,2024,153,Aaron Wiggins,OKC,SG,7.81%
+153,nba,2024,154,Chet Holmgren,OKC,C,7.74%
+154,nba,2024,155,Chris Boucher,TOR,PF,7.69%
+155,nba,2024,156,Jarred Vanderbilt,LAL,PF,7.62%
+156,nba,2024,157,Scoot Henderson,POR,PG,7.30%
+157,nba,2024,158,Isaac Okoro,CLE,SG,7.24%
+158,nba,2024,159,Scottie Barnes,TOR,PF,7.21%
+159,nba,2024,160,Reed Sheppard,HOU,SG,7.18%
+160,nba,2024,161,Mike Conley,MIN,PG,7.10%
+161,nba,2024,162,Jonas Valanciunas,SAC,C,7.04%
+162,nba,2024,163,Alex Caruso,OKC,SG,7.03%
+163,nba,2024,164,Jabari Smith Jr.,HOU,PF,6.95%
+164,nba,2024,165,Derrick Jones Jr.,LAC,SF/PF,6.77%
+165,nba,2024,166,Al Horford,BOS,C,6.76%
+166,nba,2024,,T.J. McConnell,IND,PG,6.76%
+167,nba,2024,168,Pat Connaughton,MIL,SG,6.70%
+168,nba,2024,169,Royce O'Neale,PHX,SF,6.67%
+169,nba,2024,170,Luke Kennard,MEM,SG,6.58%
+170,nba,2024,,Amen Thompson,HOU,PG,6.58%
+171,nba,2024,172,Jalen Suggs,ORL,SG,6.54%
+172,nba,2024,173,Caleb Martin,DAL,SF,6.53%
+173,nba,2024,174,Gary Payton II,GSW,PG,6.49%
+174,nba,2024,175,Stephon Castle,SAS,PG,6.48%
+175,nba,2024,176,Tre Jones,CHI,PG,6.48%
+176,nba,2024,177,Goga Bitadze,ORL,C,6.44%
+177,nba,2024,178,Zeke Nnaji,DEN,PF,6.32%
+178,nba,2024,179,Keegan Murray,SAC,PF,6.27%
+179,nba,2024,180,Kyle Anderson,MIA,PF,6.25%
+180,nba,2024,,Buddy Hield,GSW,SG,6.25%
+181,nba,2024,182,Naji Marshall,DAL,SF,6.10%
+182,nba,2024,,Jalen Smith,CHI,PF,6.10%
+183,nba,2024,184,Georges Niang,ATL,PF,6.05%
+184,nba,2024,185,Ausar Thompson,DET,SG,5.96%
+185,nba,2024,186,Josh Giddey,CHI,SG,5.94%
+186,nba,2024,187,Josh Okogie,CHA,SG,5.87%
+187,nba,2024,188,Ron Holland II,DET,SF,5.86%
+188,nba,2024,189,Cody Martin,PHX,SF,5.78%
+189,nba,2024,190,Jeff Green,HOU,PF,5.69%
+190,nba,2024,,Jock Landale,HOU,C,5.69%
+191,nba,2024,,Kevon Looney,GSW,C,5.69%
+192,nba,2024,,Trey Lyles,SAC,PF,5.69%
+193,nba,2024,194,Kelly Oubre Jr.,PHI,SF,5.68%
+194,nba,2024,195,Jaden Ivey,DET,SG,5.67%
+195,nba,2024,196,Kenyon Martin Jr.,UTA,SF,5.67%
+196,nba,2024,197,Vasilije Micic,PHX,PG,5.49%
+197,nba,2024,198,Simone Fontecchio,DET,SF,5.47%
+198,nba,2024,199,Jonathan Kuminga,GSW,PF,5.43%
+199,nba,2024,200,Anthony Black,ORL,SG,5.41%
+200,nba,2024,201,Jae’Sean Tate,HOU,SF,5.38%
+201,nba,2024,202,Gary Harris,ORL,SG,5.33%
+202,nba,2024,203,Tidjane Salaun,CHA,PF,5.33%
+203,nba,2024,204,Bennedict Mathurin,IND,SG,5.15%
+204,nba,2024,205,Max Christie,DAL,SG,5.08%
+205,nba,2024,206,Franz Wagner,ORL,SF,4.98%
+206,nba,2024,207,Ayo Dosunmu,CHI,PG,4.98%
+207,nba,2024,208,Bilal Coulibaly,WAS,SF,4.94%
+208,nba,2024,209,Donovan Clingan,POR,C,4.86%
+209,nba,2024,210,Payton Pritchard,BOS,PG,4.76%
+210,nba,2024,211,Kenrich Williams,OKC,PF,4.74%
+211,nba,2024,212,Shaedon Sharpe,POR,SG,4.70%
+212,nba,2024,213,Jevon Carter,CHI,PG,4.62%
+213,nba,2024,214,Davion Mitchell,MIA,PG,4.59%
+214,nba,2024,215,Saddiq Bey,WAS,SF,4.58%
+215,nba,2024,216,Jarace Walker,IND,PF,4.53%
+216,nba,2024,217,Rob Dillingham,MIN,PG,4.45%
+217,nba,2024,218,Dean Wade,CLE,PF,4.39%
+218,nba,2024,219,John Konchar,MEM,SG,4.39%
+219,nba,2024,220,Ziaire Williams,BKN,SF,4.36%
+220,nba,2024,221,Dyson Daniels,ATL,PG,4.31%
+221,nba,2024,222,Precious Achiuwa,NYK,PF,4.27%
+222,nba,2024,,Malik Beasley,DET,SG,4.27%
+223,nba,2024,224,Taylor Hendricks,UTA,PF,4.16%
+224,nba,2024,225,Moses Moody,GSW,SG,4.13%
+225,nba,2024,226,Zach Edey,MEM,C,4.09%
+226,nba,2024,227,Corey Kispert,WAS,SF,4.06%
+227,nba,2024,228,Jeremy Sochan,SAS,PF,3.96%
+228,nba,2024,229,Cason Wallace,OKC,PG,3.95%
+229,nba,2024,230,Cody Williams,UTA,SG,3.89%
+230,nba,2024,231,Alperen Sengun,HOU,C,3.86%
+231,nba,2024,232,Jett Howard,ORL,SG,3.75%
+232,nba,2024,233,Haywood Highsmith,MIA,F,3.70%
+233,nba,2024,234,Matas Buzelis,CHI,SF,3.70%
+234,nba,2024,235,Kris Dunn,LAC,PG,3.68%
+235,nba,2024,,Dario Saric,DEN,PF,3.68%
+236,nba,2024,237,Trey Murphy III,NOP,SF,3.67%
+237,nba,2024,238,Ousmane Dieng,OKC,SF,3.58%
+238,nba,2024,239,Dereck Lively II,DAL,C,3.57%
+239,nba,2024,240,Andre Drummond,PHI,C,3.56%
+240,nba,2024,,Drew Eubanks,LAC,C,3.56%
+241,nba,2024,,Nick Richards,PHX,C,3.56%
+242,nba,2024,243,Nikola Topic,OKC,PG,3.51%
+243,nba,2024,244,Tre Mann,CHA,PG,3.49%
+244,nba,2024,245,Jalen Williams,OKC,SF,3.40%
+245,nba,2024,246,Gradey Dick,TOR,SG,3.39%
+246,nba,2024,247,Miles McBride,NYK,PG,3.35%
+247,nba,2024,248,Devin Carter,SAC,PG,3.34%
+248,nba,2024,249,Nicolas Batum,LAC,SF,3.32%
+249,nba,2024,,Aaron Holiday,HOU,PG,3.32%
+250,nba,2024,251,Jalen Duren,DET,C,3.23%
+251,nba,2024,252,Jordan Hawkins,NOP,SG,3.22%
+252,nba,2024,253,Jalen Johnson,ATL,SF,3.21%
+253,nba,2024,254,Bub Carrington,WAS,PG,3.17%
+254,nba,2024,255,Isaiah Jackson,IND,PF,3.15%
+255,nba,2024,256,Nickeil Alexander-Walker,MIN,SG,3.07%
+256,nba,2024,257,Ochai Agbaji,TOR,SF,3.07%
+257,nba,2024,258,Kobe Bufkin,ATL,PG,3.06%
+258,nba,2024,259,Quentin Grimes,PHI,SG,3.06%
+259,nba,2024,260,Kel'el Ware,MIA,C,3.01%
+260,nba,2024,261,Mark Williams,CHA,C,2.91%
+261,nba,2024,262,Keyonte George,UTA,SG,2.91%
+262,nba,2024,263,Cameron Thomas,BKN,SG,2.87%
+263,nba,2024,264,Jared McCain,PHI,PG,2.86%
+264,nba,2024,265,Dwight Powell,DAL,C,2.85%
+265,nba,2024,266,Day'Ron Sharpe,BKN,C,2.84%
+266,nba,2024,267,Santi Aldama,MEM,C,2.82%
+267,nba,2024,268,Amir Coffey,LAC,SG,2.80%
+268,nba,2024,269,Kevin Love,MIA,C/PF,2.74%
+269,nba,2024,270,Dalton Knecht,LAL,SF,2.72%
+270,nba,2024,271,Tari Eason,HOU,PF,2.63%
+271,nba,2024,272,Jaime Jaquez Jr.,MIA,SF,2.62%
+272,nba,2024,273,Tristan Da Silva,ORL,SF,2.58%
+273,nba,2024,274,Brandin Podziemski,GSW,SG,2.50%
+274,nba,2024,275,Dalen Terry,CHI,SG,2.50%
+275,nba,2024,276,Sviatoslav Mykhailiuk,UTA,SG,2.49%
+276,nba,2024,277,Ja'Kobe Walter,TOR,SG,2.46%
+277,nba,2024,278,Cam Whitmore,HOU,SF,2.40%
+278,nba,2024,279,Jake LaRavia,SAC,PF,2.38%
+279,nba,2024,280,Jaylon Tyson,CLE,SG,2.37%
+280,nba,2024,281,Eric Gordon,PHI,SG,2.35%
+281,nba,2024,,Cory Joseph,ORL,PG,2.35%
+282,nba,2024,,Russell Westbrook,DEN,PG,2.35%
+283,nba,2024,284,Noah Clowney,BKN,PF,2.31%
+284,nba,2024,285,Malaki Branham,SAS,SG,2.29%
+285,nba,2024,286,Yves Missi,NOP,C,2.27%
+286,nba,2024,287,Dante Exum,DAL,PG,2.24%
+287,nba,2024,288,Dariq Whitehead,BKN,SG,2.22%
+288,nba,2024,289,Christian Braun,DEN,SG,2.20%
+289,nba,2024,290,Johnny Juzang,UTA,SG,2.20%
+290,nba,2024,291,DaRon Holmes II,DEN,PF,2.18%
+291,nba,2024,292,Julian Champagnie,SAS,SF,2.13%
+292,nba,2024,,Kyle Filipowski,UTA,PF,2.13%
+293,nba,2024,,Ajay Mitchell,OKC,PG,2.13%
+294,nba,2024,295,Kris Murray,POR,PF,2.13%
+295,nba,2024,296,Walker Kessler,UTA,C,2.11%
+296,nba,2024,297,Shake Milton,LAL,SG,2.05%
+297,nba,2024,298,Olivier-Maxence Prosper,DAL,PF,2.04%
+298,nba,2024,299,Kyshawn George,WAS,SG,2.01%
+299,nba,2024,300,AJ Johnson,WAS,PG,1.99%
+300,nba,2024,301,Marcus Sasser,DET,PG,1.96%
+301,nba,2024,302,Trendon Watford,BKN,PF,1.94%
+302,nba,2024,303,Ben Sheppard,IND,SF,1.89%
+303,nba,2024,304,Blake Wesley,SAS,SG,1.87%
+304,nba,2024,305,Dillon Jones,OKC,SF,1.87%
+305,nba,2024,306,Nick Smith Jr.,CHA,PG,1.84%
+306,nba,2024,307,Brice Sensabaugh,UTA,SF,1.83%
+307,nba,2024,308,Ty Jerome,CLE,SG,1.82%
+308,nba,2024,309,Julian Strawther,DEN,SF,1.82%
+309,nba,2024,310,Terrence Shannon Jr.,MIN,SG,1.81%
+310,nba,2024,311,Kobe Brown,LAC,PF,1.80%
+311,nba,2024,312,Ryan Dunn,PHX,SF,1.80%
+312,nba,2024,313,Isaiah Collier,UTA,PG,1.79%
+313,nba,2024,314,Baylor Scheierman,BOS,SG,1.77%
+314,nba,2024,315,Nikola Jovic,MIA,SF,1.75%
+315,nba,2024,316,Jaxson Hayes,LAL,C,1.75%
+316,nba,2024,317,DaQuan Jeffries,CHA,SG,1.73%
+317,nba,2024,318,Peyton Watson,DEN,SG,1.72%
+318,nba,2024,319,Kevin Porter Jr.,MIL,PG,1.68%
+319,nba,2024,320,Anthony Gill,WAS,PF,1.59%
+320,nba,2024,,Xavier Tillman,BOS,C,1.59%
+321,nba,2024,322,Garrison Mathews,ATL,SG,1.59%
+322,nba,2024,323,Dalano Banton,POR,PG,1.56%
+323,nba,2024,,Jeremiah Robinson-Earl,NOP,PF,1.56%
+324,nba,2024,,Lindy Waters III,DET,SF,1.56%
+325,nba,2024,326,Sam Merrill,CLE,SG,1.54%
+326,nba,2024,327,Luka Garza,MIN,C,1.54%
+327,nba,2024,,Keon Johnson,BKN,SG,1.54%
+328,nba,2024,,Vit Krejci,ATL,PG,1.54%
+329,nba,2024,,Neemias Queta,BOS,C,1.54%
+330,nba,2024,331,Keon Ellis,SAC,SF,1.51%
+331,nba,2024,,AJ Green,MIL,SG,1.51%
+332,nba,2024,,Colby Jones,WAS,SG,1.51%
+333,nba,2024,,Vincent Williams Jr.,MEM,SF,1.51%
+334,nba,2024,335,Sam Hauser,BOS,SF,1.49%
+335,nba,2024,,Jericho Sims,MIL,C,1.49%
+336,nba,2024,337,Jay Huff,MEM,C,1.49%
+337,nba,2024,338,Charles Bassey,SAS,C,1.48%
+338,nba,2024,,Bol Bol,PHX,PF,1.48%
+339,nba,2024,,Thomas Bryant,IND,C,1.48%
+340,nba,2024,,Alec Burks,MIA,SG,1.48%
+341,nba,2024,,Vlatko Cancar,DEN,PF,1.48%
+342,nba,2024,,Seth Curry,CHA,SG,1.48%
+343,nba,2024,,Spencer Dinwiddie,DAL,PG,1.48%
+344,nba,2024,,Taj Gibson,CHA,C,1.48%
+345,nba,2024,,Talen Horton-Tucker,CHI,SG,1.48%
+346,nba,2024,,Joe Ingles,MIN,SF,1.48%
+347,nba,2024,,James Johnson,IND,PF,1.48%
+348,nba,2024,,Tyus Jones,PHX,PG,1.48%
+349,nba,2024,,DeAndre Jordan,DEN,C,1.48%
+350,nba,2024,,Tyler Kolek,NYK,PG,1.48%
+351,nba,2024,,Luke Kornet,BOS,C,1.48%
+352,nba,2024,,Damion Lee,PHX,SG,1.48%
+353,nba,2024,,Kyle Lowry,PHI,PG,1.48%
+354,nba,2024,,Sandro Mamukelashvili,SAS,C,1.48%
+355,nba,2024,,Doug McDermott,SAC,SF,1.48%
+356,nba,2024,,Jordan McLaughlin,SAS,PG,1.48%
+357,nba,2024,,Patty Mills,LAC,PG,1.48%
+358,nba,2024,,Markieff Morris,LAL,PF,1.48%
+359,nba,2024,,Monte Morris,PHX,PG,1.48%
+360,nba,2024,,Cameron Payne,NYK,PG,1.48%
+361,nba,2024,,Scotty Pippen Jr.,MEM,PG,1.48%
+362,nba,2024,,Mason Plumlee,PHX,C,1.48%
+363,nba,2024,,Taurean Prince,MIL,PF,1.48%
+364,nba,2024,,Garrett Temple,TOR,SG,1.48%
+365,nba,2024,,Tristan Thompson,CLE,C,1.48%
+366,nba,2024,,Gary Trent Jr.,MIL,SG,1.48%
+367,nba,2024,,Delon Wright,NYK,PG,1.48%
+368,nba,2024,,Guerschon Yabusele,PHI,PF,1.48%
+369,nba,2024,370,Duop Reath,POR,C,1.46%
+370,nba,2024,371,Jaden Hardy,DAL,SG,1.44%
+371,nba,2024,,Caleb Houstan,ORL,SF,1.44%
+372,nba,2024,,Josh Minott,MIN,SF,1.44%
+373,nba,2024,,Andrew Nembhard,IND,PG,1.44%
+374,nba,2024,,Jabari Walker,POR,SF,1.44%
+375,nba,2024,,Jaylin Williams,OKC,C,1.44%
+376,nba,2024,377,Jose Alvarado,NOP,PG,1.41%
+377,nba,2024,378,Toumani Camara,POR,PF,1.35%
+378,nba,2024,,Ricky Council IV,PHI,G,1.35%
+379,nba,2024,,Mouhamed Gueye,ATL,PF,1.35%
+380,nba,2024,,G.G. Jackson,MEM,PF,1.35%
+381,nba,2024,,Andre Jackson Jr.,MIL,SG,1.35%
+382,nba,2024,,Trayce Jackson-Davis,GSW,PF,1.35%
+383,nba,2024,,Maxwell Lewis,BKN,SF,1.35%
+384,nba,2024,,Chris Livingston,MIL,SF,1.35%
+385,nba,2024,,Leonard Miller,MIN,SF,1.35%
+386,nba,2024,,Julian Phillips,CHI,SF,1.35%
+387,nba,2024,,Jalen Pickett,DEN,PG,1.35%
+388,nba,2024,,Craig Porter Jr.,CLE,G,1.35%
+389,nba,2024,,Rayan Rupert,POR,SG,1.35%
+390,nba,2024,,Gui Santos,GSW,SF,1.35%
+391,nba,2024,,Hunter Tyson,DEN,SF,1.35%
+392,nba,2024,,Jordan Walsh,BOS,SF,1.35%
+393,nba,2024,,Jalen Wilson,BKN,PF,1.35%
+394,nba,2024,395,Jonathan Mogbo,TOR,C,1.32%
+395,nba,2024,,Jamal Shead,TOR,PG,1.32%
+396,nba,2024,397,Johnny Furphy,IND,SG,1.32%
+397,nba,2024,398,Pacome Dadiet,NYK,SG,1.29%
+398,nba,2024,399,Justin Champagnie,WAS,SF,1.28%
+399,nba,2024,400,Jae Crowder,SAC,SF,1.18%
+400,nba,2024,401,Paul Reed,DET,C,1.02%
+401,nba,2024,402,Karlo Matkovic,NOP,PF,1.00%
+402,nba,2024,403,Landry Shamet,NYK,SG,0.96%
+403,nba,2024,404,Bobi Klintman,DET,SF,0.89%
+404,nba,2024,405,Adem Bona,PHI,C,0.82%
+405,nba,2024,,Cameron Christie,LAC,SG,0.82%
+406,nba,2024,,Oso Ighodaro,PHX,C,0.82%
+407,nba,2024,,Bronny James,LAL,PG,0.82%
+408,nba,2024,,Pelle Larsson,MIA,SG,0.82%
+409,nba,2024,,Antonio Reeves,NOP,SG,0.82%
+410,nba,2024,,Tyler Smith,MIL,SF,0.82%
+411,nba,2024,,Jaylen Wells,MEM,SG,0.82%
+412,nba,2024,413,Ariel Hukporti,NYK,C,0.76%
+413,nba,2024,414,Jordan Miller,LAC,SF,0.75%
+414,nba,2024,415,Jamison Battle,TOR,SF,0.71%
+415,nba,2024,416,Moussa Diabate,CHA,PF,0.68%
+416,nba,2024,417,Lonnie Walker IV,PHI,SG,0.56%
+417,nba,2024,418,Torrey Craig,BOS,SF,0.55%
+418,nba,2024,419,Ben Simmons,LAC,PG,0.54%
+419,nba,2024,420,Jared Butler,PHI,PG,0.53%
+420,nba,2024,421,Alex Len,LAL,C,0.53%
+421,nba,2024,422,Markelle Fultz,SAC,PG,0.52%
+422,nba,2024,423,Keshad Johnson,MIA,PF,0.52%
+423,nba,2024,424,Tyrese Martin,BKN,SF,0.45%
+424,nba,2024,425,Jaden Springer,UTA,PG,0.45%
+425,nba,2024,426,Javonte Green,CLE,SG,0.43%
+426,nba,2024,427,Brandon Boston Jr,NOP,SG,0.42%
+427,nba,2024,428,Jeenathan Williams,HOU,SG,0.37%
+428,nba,2024,429,Bismack Biyombo,SAS,C,0.36%
+429,nba,2024,430,Jaylen Clark,MIN,SG,0.35%
+430,nba,2024,431,Dominick Barlow,ATL,PF,0.35%
+431,nba,2024,,Ryan Rollins,MIL,SG,0.35%
+432,nba,2024,433,Quinten Post,GSW,C,0.31%
+433,nba,2024,434,Pat Spencer,GSW,G,0.31%
+434,nba,2024,435,Justin Edwards,PHI,SG,0.30%
+435,nba,2024,436,Lamar Stevens,MEM,SF,0.27%
+436,nba,2024,437,Tony Bradley,IND,C,0.24%
+437,nba,2024,438,Kevin Knox,GSW,SF,0.19%
+438,nba,2024,439,P.J. Tucker,NYK,PF,0.18%
+439,nba,2024,440,Jordan Goodwin,LAL,PG,0.16%
+440,nba,2024,441,Isaac Jones,SAC,C,0.11%
+441,nba,2024,442,Chuma Okeke,CLE,PF,0.08%
+442,nba,2024,443,Drew Timme,BKN,F,0.08%
+443,nba,2024,444,Colin Castleton,TOR,PF,0.07%
+444,nba,2024,,A.J. Lawson,TOR,F,0.07%
+445,nba,2024,446,Terence Davis,SAC,SG,0.05%
+446,nba,2024,447,Elfrid Payton,NOP,PG,0.04%
+447,nba,2024,448,Brandon Williams,DAL,PG,0.03%
+448,nba,2024,449,J.D. Davison,BOS,PG,0.01%
+449,nba,2024,,Braxton Key,GSW,SF,0.01%
+450,nba,2024,1,G,,,46
+451,nba,2024,2,F,,,37
+452,nba,2024,3,C,,,17
+453,nba,2024,1,BOS,,,5
+454,nba,2024,2,MIA,,,5
+455,nba,2024,3,NYK,,,5
+456,nba,2024,4,CLE,,,4
+457,nba,2024,5,DEN,,,4
+458,nba,2024,6,LAC,,,4
+459,nba,2024,7,MIL,,,4
+460,nba,2024,8,MIN,,,4
+461,nba,2024,9,NOP,,,4
+462,nba,2024,10,SAS,,,4
+463,nba,2024,11,SAC,,,4
+464,nba,2024,12,TOR,,,4
+465,nba,2024,13,WAS,,,4
+466,nba,2024,14,BKN,,,3
+467,nba,2024,15,CHA,,,3
+468,nba,2024,16,CHI,,,3
+469,nba,2024,17,GSW,,,3
+470,nba,2024,18,IND,,,3
+471,nba,2024,19,LAL,,,3
+472,nba,2024,20,MEM,,,3
+473,nba,2024,21,OKC,,,3
+474,nba,2024,22,PHI,,,3
+475,nba,2024,23,PHX,,,3
+476,nba,2024,24,POR,,,3
+477,nba,2024,25,UTA,,,3
+478,nba,2024,26,ATL,,,2
+479,nba,2024,27,DAL,,,2
+480,nba,2024,28,HOU,,,2
+481,nba,2024,29,ORL,,,2
+482,nba,2024,30,DET,,,1
+483,nba,2024,1,G,,,46
+484,nba,2024,2,F,,,37
+485,nba,2024,3,C,,,17
+486,nba,2024,1,BOS,,,5
+487,nba,2024,2,MIA,,,5
+488,nba,2024,3,NYK,,,5
+489,nba,2024,4,CLE,,,4
+490,nba,2024,5,DEN,,,4
+491,nba,2024,6,LAC,,,4
+492,nba,2024,7,MIL,,,4
+493,nba,2024,8,MIN,,,4
+494,nba,2024,9,NOP,,,4
+495,nba,2024,10,SAS,,,4
+496,nba,2024,11,SAC,,,4
+497,nba,2024,12,TOR,,,4
+498,nba,2024,13,WAS,,,4
+499,nba,2024,14,BKN,,,3
+500,nba,2024,15,CHA,,,3
+501,nba,2024,16,CHI,,,3
+502,nba,2024,17,GSW,,,3
+503,nba,2024,18,IND,,,3
+504,nba,2024,19,LAL,,,3
+505,nba,2024,20,MEM,,,3
+506,nba,2024,21,OKC,,,3
+507,nba,2024,22,PHI,,,3
+508,nba,2024,23,PHX,,,3
+509,nba,2024,24,POR,,,3
+510,nba,2024,25,UTA,,,3
+511,nba,2024,26,ATL,,,2
+512,nba,2024,27,DAL,,,2
+513,nba,2024,28,HOU,,,2
+514,nba,2024,29,ORL,,,2
+515,nba,2024,30,DET,,,1

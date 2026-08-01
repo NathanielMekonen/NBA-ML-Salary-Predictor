@@ -1,0 +1,517 @@
+,league,season,rank,player,team,position,salary
+0,nba,2018,1,Stephen Curry,GSW,PG,36.77%
+1,nba,2018,2,LeBron James,LAL,SF,35.00%
+2,nba,2018,,Chris Paul,HOU,PG,35.00%
+3,nba,2018,,Russell Westbrook,OKC,PG,35.00%
+4,nba,2018,5,Kyle Lowry,TOR,PG,32.10%
+5,nba,2018,6,Blake Griffin,DET,PF,31.50%
+6,nba,2018,7,Gordon Hayward,BOS,SF,30.64%
+7,nba,2018,8,Paul George,OKC,SF,30.00%
+8,nba,2018,9,Mike Conley,MEM,PG,29.96%
+9,nba,2018,10,James Harden,HOU,SG,29.86%
+10,nba,2018,11,Kevin Durant,GSW,SF,29.45%
+11,nba,2018,12,Paul Millsap,DEN,PF,28.69%
+12,nba,2018,13,Al Horford,BOS,C,28.40%
+13,nba,2018,14,Damian Lillard,POR,PG,27.46%
+14,nba,2018,15,DeMar DeRozan,SAS,SG,27.23%
+15,nba,2018,16,Otto Porter Jr.,CHI,SF,25.53%
+16,nba,2018,17,Jrue Holiday,NOP,SG,25.50%
+17,nba,2018,18,C.J. McCollum,POR,SG,25.29%
+18,nba,2018,19,Joel Embiid,PHI,C,25.00%
+19,nba,2018,,Nikola Jokic,DEN,C,25.00%
+20,nba,2018,,Andrew Wiggins,MIN,SF,25.00%
+21,nba,2018,22,Bradley Beal,WAS,SG,24.97%
+22,nba,2018,,Anthony Davis,NOP,PF,24.97%
+23,nba,2018,,Andre Drummond,DET,C,24.97%
+24,nba,2018,,Hassan Whiteside,MIA,C,24.97%
+25,nba,2018,26,Harrison Barnes,SAC,SF,24.34%
+26,nba,2018,27,Steven Adams,OKC,C,23.71%
+27,nba,2018,,Giannis Antetokounmpo,MIL,PF,23.71%
+28,nba,2018,29,Marc Gasol,TOR,C,23.68%
+29,nba,2018,,Kevin Love,CLE,C,23.68%
+30,nba,2018,31,Chandler Parsons,MEM,SF,23.67%
+31,nba,2018,32,Nicolas Batum,CHA,SF,23.56%
+32,nba,2018,33,Rudy Gobert,UTA,C,23.06%
+33,nba,2018,34,Kawhi Leonard,TOR,SF,22.69%
+34,nba,2018,35,DeAndre Jordan,NYK,C,22.48%
+35,nba,2018,36,LaMarcus Aldridge,SAS,PF,21.94%
+36,nba,2018,37,Serge Ibaka,TOR,PF,21.27%
+37,nba,2018,38,Aaron Gordon,ORL,PF,21.19%
+38,nba,2018,39,Danilo Gallinari,LAC,SF,21.19%
+39,nba,2018,40,Victor Oladipo,IND,SG,20.61%
+40,nba,2018,41,Jimmy Butler,PHI,SG,20.07%
+41,nba,2018,42,Ryan Anderson,MIA,PF,20.05%
+42,nba,2018,43,Kyrie Irving,BOS,PG,19.73%
+43,nba,2018,44,Jabari Parker,WAS,PF,19.63%
+44,nba,2018,45,Zach LaVine,CHI,SG,19.14%
+45,nba,2018,46,Tyler Johnson,PHX,SG,18.89%
+46,nba,2018,47,Tim Hardaway Jr.,DAL,SG,18.85%
+47,nba,2018,48,John Wall,WAS,PG,18.82%
+48,nba,2018,49,George Hill,MIL,PG,18.65%
+49,nba,2018,,Jeff Teague,MIN,PG,18.65%
+50,nba,2018,51,Klay Thompson,GSW,SG,18.64%
+51,nba,2018,52,Allen Crabbe,BKN,SG,18.16%
+52,nba,2018,53,Goran Dragic,MIA,PG,17.78%
+53,nba,2018,54,Kent Bazemore,ATL,SG,17.76%
+54,nba,2018,55,Evan Turner,POR,SF,17.54%
+55,nba,2018,56,Draymond Green,GSW,PF,17.15%
+56,nba,2018,,Tristan Thompson,CLE,C,17.15%
+57,nba,2018,58,Reggie Jackson,DET,PG,16.73%
+58,nba,2018,59,Bismack Biyombo,CHA,C,16.69%
+59,nba,2018,,Evan Fournier,ORL,SG,16.69%
+60,nba,2018,61,Derrick Favors,UTA,PF,16.59%
+61,nba,2018,62,Jonas Valanciunas,MEM,C,16.24%
+62,nba,2018,63,Gary Harris,DEN,SG,16.21%
+63,nba,2018,64,Andre Iguodala,GSW,SF,15.71%
+64,nba,2018,,Timofey Mozgov,ORL,C,15.71%
+65,nba,2018,66,Ian Mahinmi,WAS,C,15.65%
+66,nba,2018,67,Dennis Schröder,OKC,PG,15.22%
+67,nba,2018,68,DeMarre Carroll,BKN,SF,15.12%
+68,nba,2018,69,Gorgui Dieng,MIN,C,14.89%
+69,nba,2018,70,Trevor Ariza,WAS,SF,14.72%
+70,nba,2018,,Eric Bledsoe,MIL,PG,14.72%
+71,nba,2018,72,Ricky Rubio,UTA,PG,14.70%
+72,nba,2018,73,Tobias Harris,PHI,PF,14.53%
+73,nba,2018,74,J.R. Smith,CLE,SG,14.45%
+74,nba,2018,75,James Johnson,MIA,PF,14.38%
+75,nba,2018,76,Brandon Knight,CLE,PG,14.36%
+76,nba,2018,77,Robin Lopez,CHI,C,14.09%
+77,nba,2018,78,Marvin Williams,CHA,PF,13.83%
+78,nba,2018,79,Taj Gibson,MIN,PF,13.74%
+79,nba,2018,80,Clint Capela,HOU,C,13.54%
+80,nba,2018,81,Thaddeus Young,IND,PF,13.51%
+81,nba,2018,82,Cody Zeller,CHA,C,13.28%
+82,nba,2018,83,Eric Gordon,HOU,SG,13.25%
+83,nba,2018,84,Nikola Vucevic,ORL,C,13.01%
+84,nba,2018,85,Joe Ingles,UTA,SF,12.81%
+85,nba,2018,86,Michael Kidd-Gilchrist,CHA,SF,12.76%
+86,nba,2018,,Khris Middleton,MIL,SF,12.76%
+87,nba,2018,88,Mason Plumlee,DEN,C,12.68%
+88,nba,2018,89,Wilson Chandler,LAC,SF,12.57%
+89,nba,2018,90,Jordan Clarkson,CLE,SG,12.27%
+90,nba,2018,,Nikola Mirotic,MIL,PF,12.27%
+91,nba,2018,,Miles Plumlee,ATL,C,12.27%
+92,nba,2018,93,Tyreke Evans,IND,SG,12.17%
+93,nba,2018,94,Jusuf Nurkic,POR,C,12.13%
+94,nba,2018,95,Courtney Lee,DAL,SG,12.03%
+95,nba,2018,96,Solomon Hill,NOP,SF,12.03%
+96,nba,2018,97,J.J. Redick,PHI,SG,12.03%
+97,nba,2018,98,Kelly Olynyk,MIA,C,11.91%
+98,nba,2018,99,Avery Bradley,MEM,SG,11.78%
+99,nba,2018,,Kentavious Caldwell-Pope,LAL,SG,11.78%
+100,nba,2018,,Kemba Walker,CHA,PG,11.78%
+101,nba,2018,102,Will Barton,DEN,SG,11.61%
+102,nba,2018,103,T.J. Warren,PHX,SF,11.53%
+103,nba,2018,104,Marcus Smart,BOS,PG,11.45%
+104,nba,2018,105,Patty Mills,SAS,PG,11.36%
+105,nba,2018,106,Dion Waiters,MIA,SG,11.34%
+106,nba,2018,107,Alec Burks,SAC,SG,11.32%
+107,nba,2018,108,John Henson,CLE,PF,11.12%
+108,nba,2018,109,Iman Shumpert,HOU,SG,10.81%
+109,nba,2018,110,Tony Snell,MIL,SG,10.61%
+110,nba,2018,111,Meyers Leonard,POR,C,10.40%
+111,nba,2018,112,Bojan Bogdanovic,IND,SF,10.31%
+112,nba,2018,,Terrence Ross,ORL,SG,10.31%
+113,nba,2018,114,Robert Covington,MIN,SF,10.27%
+114,nba,2018,115,Maurice Harkless,POR,SF,10.15%
+115,nba,2018,116,Rudy Gay,SAS,PF,9.90%
+116,nba,2018,117,Jon Leuer,DET,PF,9.82%
+117,nba,2018,118,Darren Collison,IND,PG,9.82%
+118,nba,2018,,Danny Green,TOR,SG,9.82%
+119,nba,2018,,Andre Roberson,OKC,SG,9.82%
+120,nba,2018,121,Dwight Powell,DAL,PF,9.45%
+121,nba,2018,122,Matthew Dellavedova,CLE,PG,9.43%
+122,nba,2018,123,Dante Exum,UTA,PG,9.42%
+123,nba,2018,124,Jared Dudley,BKN,SF,9.36%
+124,nba,2018,125,Norman Powell,TOR,SG,9.20%
+125,nba,2018,,Josh Richardson,MIA,SF,9.20%
+126,nba,2018,127,Bogdan Bogdanovic,SAC,SG,8.83%
+127,nba,2018,,Rajon Rondo,LAL,PG,8.83%
+128,nba,2018,129,E'Twaun Moore,NOP,SG,8.65%
+129,nba,2018,130,Kosta Koufos,SAC,C,8.58%
+130,nba,2018,131,Jerami Grant,OKC,SF,8.50%
+131,nba,2018,,Fred VanVleet,TOR,PG,8.50%
+132,nba,2018,133,Kyle Anderson,MEM,SF,8.48%
+133,nba,2018,,Julius Randle,NOP,PF,8.48%
+134,nba,2018,135,Jerryd Bayless,MIN,PG,8.42%
+135,nba,2018,136,Cristiano Felicio,CHI,PF,8.32%
+136,nba,2018,137,Markelle Fultz,ORL,PG,8.19%
+137,nba,2018,138,Joe Harris,BKN,SG,8.18%
+138,nba,2018,,C.J. Miles,MEM,SF,8.18%
+139,nba,2018,140,Shaun Livingston,GSW,PG,8.16%
+140,nba,2018,141,Deandre Ayton,PHX,C,8.02%
+141,nba,2018,142,Garrett Temple,LAC,SG,7.85%
+142,nba,2018,,Louis Williams,LAC,SG,7.85%
+143,nba,2018,144,P.J. Tucker,HOU,SF,7.82%
+144,nba,2018,145,Cory Joseph,IND,PG,7.80%
+145,nba,2018,146,JaMychal Green,LAC,PF,7.72%
+146,nba,2018,147,Karl-Anthony Towns,MIN,C,7.70%
+147,nba,2018,148,Kyle Korver,UTA,SG,7.42%
+148,nba,2018,149,Jeremy Lamb,CHA,SG,7.35%
+149,nba,2018,150,Lonzo Ball,LAL,PG,7.33%
+150,nba,2018,151,Doug McDermott,IND,SF,7.20%
+151,nba,2018,152,Jae Crowder,UTA,SF,7.17%
+152,nba,2018,153,Marvin Bagley III,SAC,PF,7.17%
+153,nba,2018,154,D.J. Augustin,ORL,PG,7.12%
+154,nba,2018,155,Dewayne Dedmon,ATL,C,7.07%
+155,nba,2018,156,Lance Thomas,NYK,SF,6.99%
+156,nba,2018,157,D'Angelo Russell,BKN,PG,6.89%
+157,nba,2018,158,Davis Bertans,SAS,PF,6.87%
+158,nba,2018,,Langston Galloway,DET,SG,6.87%
+159,nba,2018,,Ersan Ilyasova,MIL,PF,6.87%
+160,nba,2018,,Boban Marjanovic,PHI,C,6.87%
+161,nba,2018,162,Al-Farouq Aminu,POR,PF,6.83%
+162,nba,2018,163,Jayson Tatum,BOS,SF,6.58%
+163,nba,2018,164,Luka Doncic,DAL,PG,6.44%
+164,nba,2018,165,Nemanja Bjelica,SAC,PF,6.38%
+165,nba,2018,,Mario Hezonja,NYK,SG,6.38%
+166,nba,2018,167,Ben Simmons,PHI,PG,6.32%
+167,nba,2018,168,Marco Belinelli,SAS,SG,6.04%
+168,nba,2018,169,Josh Jackson,PHX,SF,5.93%
+169,nba,2018,170,Montrezl Harrell,LAC,C,5.89%
+170,nba,2018,,Jonathon Simmons,PHI,SF,5.89%
+171,nba,2018,,Ishmael Smith,DET,PG,5.89%
+172,nba,2018,173,Jaren Jackson Jr.,MEM,PF,5.81%
+173,nba,2018,174,Brandon Ingram,LAL,SF,5.65%
+174,nba,2018,175,Anthony Tolliver,MIN,PF,5.64%
+175,nba,2018,176,Kristaps Porzingis,DAL,PF,5.59%
+176,nba,2018,177,De'Aaron Fox,SAC,PG,5.37%
+177,nba,2018,178,Patrick Patterson,OKC,PF,5.35%
+178,nba,2018,179,Marcus Morris Sr.,BOS,PF,5.28%
+179,nba,2018,180,Trae Young,ATL,PG,5.26%
+180,nba,2018,181,DeMarcus Cousins,GSW,C,5.24%
+181,nba,2018,,Dwight Howard,WAS,C,5.24%
+182,nba,2018,183,Thabo Sefolosha,UTA,SF,5.15%
+183,nba,2018,184,Aron Baynes,BOS,C,5.10%
+184,nba,2018,185,Jaylen Brown,BOS,SG,5.08%
+185,nba,2018,186,Patrick Beverley,LAC,PG,4.93%
+186,nba,2018,187,Mike Muscala,LAL,PF,4.91%
+187,nba,2018,,Dirk Nowitzki,DAL,PF,4.91%
+188,nba,2018,,Tony Parker,CHA,PG,4.91%
+189,nba,2018,190,Jonathan Isaac,ORL,PF,4.88%
+190,nba,2018,191,Mohamed Bamba,ORL,C,4.78%
+191,nba,2018,192,Willie Cauley-Stein,SAC,C,4.61%
+192,nba,2018,193,Dragan Bender,PHX,PF,4.58%
+193,nba,2018,194,Lauri Markkanen,CHI,PF,4.45%
+194,nba,2018,195,Ed Davis,BKN,PF,4.37%
+195,nba,2018,,Kyle O'Quinn,IND,C,4.37%
+196,nba,2018,,Lance Stephenson,LAL,SG,4.37%
+197,nba,2018,198,Wendell Carter Jr.,CHI,PF,4.36%
+198,nba,2018,199,Justin Holiday,MEM,SG,4.30%
+199,nba,2018,200,Alex Len,ATL,C,4.27%
+200,nba,2018,201,Mike Scott,PHI,PF,4.24%
+201,nba,2018,202,Emmanuel Mudiay,NYK,PG,4.22%
+202,nba,2018,203,Kris Dunn,CHI,PG,4.14%
+203,nba,2018,204,Frank Ntilikina,NYK,PG,4.08%
+204,nba,2018,205,Glenn Robinson III,DET,SG,4.00%
+205,nba,2018,206,Collin Sexton,CLE,PG,3.99%
+206,nba,2018,207,Stanley Johnson,NOP,SF,3.87%
+207,nba,2018,208,Buddy Hield,SAC,SG,3.76%
+208,nba,2018,209,Dennis Smith Jr.,NYK,PG,3.75%
+209,nba,2018,210,Kevin Knox,NYK,SF,3.67%
+210,nba,2018,211,Jose Barea,DAL,PG,3.64%
+211,nba,2018,212,Nene Hilario,HOU,C,3.58%
+212,nba,2018,213,Zach Collins,POR,C,3.56%
+213,nba,2018,214,Frank Kaminsky,CHA,PF,3.56%
+214,nba,2018,215,Mikal Bridges,PHX,SF,3.49%
+215,nba,2018,216,Jamal Murray,DEN,PG,3.44%
+216,nba,2018,217,Rodney Hood,POR,SG,3.41%
+217,nba,2018,218,Justise Winslow,MIA,SF,3.39%
+218,nba,2018,219,Malik Monk,CHA,SG,3.38%
+219,nba,2018,220,Myles Turner,IND,C,3.35%
+220,nba,2018,221,Brook Lopez,MIL,C,3.32%
+221,nba,2018,,Allonzo Trier,NYK,SG,3.32%
+222,nba,2018,223,Shai Gilgeous-Alexander,LAC,PG,3.31%
+223,nba,2018,224,Trey Lyles,DEN,PF,3.30%
+224,nba,2018,225,Ekpe Udoh,UTA,C,3.30%
+225,nba,2018,226,Devin Booker,PHX,SG,3.25%
+226,nba,2018,227,Luke Kennard,DET,SG,3.22%
+227,nba,2018,228,Troy Daniels,PHX,SG,3.20%
+228,nba,2018,229,Kelly Oubre Jr.,PHX,SF,3.15%
+229,nba,2018,230,Miles Bridges,CHA,SF,3.15%
+230,nba,2018,231,Marquese Chriss,CLE,PF,3.15%
+231,nba,2018,232,Tomas Satoransky,WAS,SG,3.07%
+232,nba,2018,233,Bryn Forbes,SAS,SG,3.07%
+233,nba,2018,234,Donovan Mitchell,UTA,SG,3.05%
+234,nba,2018,235,Terry Rozier,BOS,PG,2.99%
+235,nba,2018,236,Jerome Robinson,LAC,SG,2.99%
+236,nba,2018,237,Yogi Ferrell,SAC,PG,2.95%
+237,nba,2018,,Elfrid Payton,NOP,PG,2.95%
+238,nba,2018,239,Bam Adebayo,MIA,C,2.90%
+239,nba,2018,240,Jakob Poeltl,SAS,C,2.89%
+240,nba,2018,241,Michael Porter Jr.,DEN,SF,2.84%
+241,nba,2018,242,Justin Jackson,DAL,SF,2.76%
+242,nba,2018,243,Thon Maker,DET,C,2.75%
+243,nba,2018,244,Seth Curry,POR,SG,2.74%
+244,nba,2018,245,Cedi Osman,CLE,SF,2.72%
+245,nba,2018,246,Sam Dekker,WAS,SF,2.71%
+246,nba,2018,247,Troy Brown Jr.,WAS,SF,2.70%
+247,nba,2018,248,Guerschon Yabusele,BOS,PF,2.62%
+248,nba,2018,249,Domantas Sabonis,IND,C,2.61%
+249,nba,2018,250,Jerian Grant,ORL,PG,2.59%
+250,nba,2018,251,Zhaire Smith,PHI,SG,2.56%
+251,nba,2018,252,Delon Wright,MEM,PG,2.49%
+252,nba,2018,253,DJ Wilson,MIL,PF,2.49%
+253,nba,2018,254,Taurean Prince,ATL,SF,2.48%
+254,nba,2018,,Dario Saric,MIN,PF,2.48%
+255,nba,2018,256,Justin Anderson,ATL,SG,2.47%
+256,nba,2018,257,Reggie Bullock,LAL,SG,2.45%
+257,nba,2018,258,Bobby Portis,WAS,PF,2.45%
+258,nba,2018,259,Dante Cunningham,SAS,PF,2.44%
+259,nba,2018,260,Donte DiVincenzo,MIL,SG,2.44%
+260,nba,2018,261,Rondae Hollis-Jefferson,BKN,SF,2.43%
+261,nba,2018,262,Tyus Jones,MIN,PG,2.40%
+262,nba,2018,263,Jarell Martin,ORL,PF,2.37%
+263,nba,2018,264,TJ Leaf,IND,PF,2.36%
+264,nba,2018,265,Wayne Ellington,DET,SG,2.34%
+265,nba,2018,266,Lonnie Walker IV,SAS,SG,2.31%
+266,nba,2018,267,John Collins,ATL,PF,2.26%
+267,nba,2018,268,Denzel Valentine,CHI,SG,2.24%
+268,nba,2018,269,Larry Nance Jr.,CLE,PF,2.23%
+269,nba,2018,270,Kevin Huerter,ATL,SG,2.21%
+270,nba,2018,271,Harry Giles,SAC,PF,2.17%
+271,nba,2018,272,Darius Miller,NOP,SF,2.16%
+272,nba,2018,273,Juancho Hernangomez,DEN,PF,2.13%
+273,nba,2018,274,Josh Okogie,MIN,SG,2.12%
+274,nba,2018,275,Raul Neto,UTA,PG,2.11%
+275,nba,2018,276,Terrance Ferguson,OKC,SG,2.08%
+276,nba,2018,277,Grayson Allen,UTA,SG,2.04%
+277,nba,2018,278,Jarrett Allen,BKN,C,2.00%
+278,nba,2018,279,Corey Brewer,SAC,SG,1.96%
+279,nba,2018,,Torrey Craig,DEN,SF,1.96%
+280,nba,2018,281,Chandler Hutchison,CHI,SF,1.96%
+281,nba,2018,282,OG Anunoby,TOR,SF,1.92%
+282,nba,2018,,Ante Zizic,CLE,C,1.92%
+283,nba,2018,284,Shabazz Napier,BKN,PG,1.91%
+284,nba,2018,285,Aaron Holiday,IND,PG,1.88%
+285,nba,2018,286,Tyler Lydon,DEN,PF,1.84%
+286,nba,2018,287,Anfernee Simons,POR,SG,1.80%
+287,nba,2018,288,Trey Burke,DAL,PG,1.76%
+288,nba,2018,289,Malik Beasley,DEN,SG,1.74%
+289,nba,2018,290,Moritz Wagner,LAL,PF,1.73%
+290,nba,2018,291,Nerlens Noel,OKC,C,1.73%
+291,nba,2018,292,Furkan Korkmaz,PHI,SG,1.71%
+292,nba,2018,,Caleb Swanigan,SAC,PF,1.71%
+293,nba,2018,294,Landry Shamet,LAC,SG,1.67%
+294,nba,2018,295,Caris LeVert,BKN,SG,1.67%
+295,nba,2018,296,Jonah Bolden,PHI,SF,1.66%
+296,nba,2018,297,Kyle Kuzma,LAL,PF,1.66%
+297,nba,2018,298,Tony Bradley,UTA,C,1.65%
+298,nba,2018,299,Derrick White,SAS,PG,1.64%
+299,nba,2018,300,Spencer Dinwiddie,BKN,PG,1.63%
+300,nba,2018,301,Josh Hart,LAL,SG,1.62%
+301,nba,2018,302,Robert Williams III,BOS,PF,1.62%
+302,nba,2018,303,Jacob Evans,GSW,SF,1.61%
+303,nba,2018,304,Pat Connaughton,MIL,SG,1.61%
+304,nba,2018,305,DeAndre' Bembry,ATL,SF,1.60%
+305,nba,2018,306,Dzanan Musa,BKN,SG,1.60%
+306,nba,2018,307,James Ennis III,PHI,SF,1.59%
+307,nba,2018,308,Omari Spellman,ATL,PF,1.59%
+308,nba,2018,309,Luke Kornet,NYK,PF,1.59%
+309,nba,2018,310,Rodions Kurucs,BKN,SF,1.59%
+310,nba,2018,311,Richaun Holmes,PHX,C,1.57%
+311,nba,2018,,T.J. McConnell,PHI,PG,1.57%
+312,nba,2018,313,Jahlil Okafor,NOP,C,1.54%
+313,nba,2018,314,Malcolm Brogdon,MIL,PG,1.52%
+314,nba,2018,,Quinn Cook,GSW,PG,1.52%
+315,nba,2018,,Cheick Diallo,NOP,PF,1.52%
+316,nba,2018,,Dorian Finney-Smith,DAL,SF,1.52%
+317,nba,2018,,Willy Hernangomez,CHA,C,1.52%
+318,nba,2018,,Damian Jones,GSW,C,1.52%
+319,nba,2018,,Skal Labissiere,POR,PF,1.52%
+320,nba,2018,,Jake Layman,POR,SF,1.52%
+321,nba,2018,,Timothe Luwawu-Cabarrot,CHI,SG,1.52%
+322,nba,2018,,Rodney McGruder,LAC,SG,1.52%
+323,nba,2018,,Dejounte Murray,SAS,PG,1.52%
+324,nba,2018,,Wayne Selden,CHI,SG,1.52%
+325,nba,2018,,Pascal Siakam,TOR,PF,1.52%
+326,nba,2018,,Ivica Zubac,LAC,C,1.52%
+327,nba,2018,328,Jose Calderon,DET,PG,1.48%
+328,nba,2018,,Vince Carter,ATL,SG,1.48%
+329,nba,2018,,Ian Clark,NOP,SG,1.48%
+330,nba,2018,,Jamal Crawford,PHX,SG,1.48%
+331,nba,2018,,Luol Deng,MIN,SF,1.48%
+332,nba,2018,,Raymond Felton,OKC,PG,1.48%
+333,nba,2018,,Channing Frye,CLE,PF,1.48%
+334,nba,2018,,Treveon Graham,BKN,SG,1.48%
+335,nba,2018,,Gerald Green,HOU,SG,1.48%
+336,nba,2018,,Jeff Green,WAS,SF,1.48%
+337,nba,2018,,Devin Harris,DAL,PG,1.48%
+338,nba,2018,,Udonis Haslem,MIA,PF,1.48%
+339,nba,2018,,Jonas Jerebko,GSW,PF,1.48%
+340,nba,2018,,Amir Johnson,PHI,C,1.48%
+341,nba,2018,,Derrick Jones Jr.,MIA,SF,1.48%
+342,nba,2018,,Kevon Looney,GSW,C,1.48%
+343,nba,2018,,Shelvin Mack,CHA,PG,1.48%
+344,nba,2018,,JaVale McGee,LAL,C,1.48%
+345,nba,2018,,Georges Niang,UTA,PF,1.48%
+346,nba,2018,,David Nwaba,CLE,SG,1.48%
+347,nba,2018,,Zaza Pachulia,DET,C,1.48%
+348,nba,2018,,Quincy Pondexter,SAS,SG,1.48%
+349,nba,2018,,Derrick Rose,MIN,PG,1.48%
+350,nba,2018,,Isaiah Thomas,DEN,PG,1.48%
+351,nba,2018,,Noah Vonleh,NYK,PF,1.48%
+352,nba,2018,,Dwyane Wade,MIA,SG,1.48%
+353,nba,2018,,Christian Wood,NOP,PF,1.48%
+354,nba,2018,355,Sviatoslav Mykhailiuk,DET,SF,1.46%
+355,nba,2018,356,Mitchell Robinson,NYK,C,1.46%
+356,nba,2018,357,Dwayne Bacon,CHA,SF,1.35%
+357,nba,2018,,Jordan Bell,GSW,C,1.35%
+358,nba,2018,,Khem Birch,ORL,C,1.35%
+359,nba,2018,,Dillon Brooks,MEM,SF,1.35%
+360,nba,2018,,Sterling Brown,MIL,SG,1.35%
+361,nba,2018,,Thomas Bryant,WAS,C,1.35%
+362,nba,2018,,Tyler Dorsey,MEM,SG,1.35%
+363,nba,2018,,Damyean Dotson,NYK,SG,1.35%
+364,nba,2018,,Wesley Iwundu,ORL,SF,1.35%
+365,nba,2018,,Frank Jackson,NOP,PG,1.35%
+366,nba,2018,,Maxi Kleber,DAL,PF,1.35%
+367,nba,2018,,Frank Mason III,SAC,PG,1.35%
+368,nba,2018,,Abdel Nader,OKC,SF,1.35%
+369,nba,2018,,Royce O'Neale,UTA,SF,1.35%
+370,nba,2018,,Semi Ojeleye,BOS,PF,1.35%
+371,nba,2018,,Ivan Rabb,MEM,PF,1.35%
+372,nba,2018,,Daniel Theis,BOS,PF,1.35%
+373,nba,2018,,Sindarius Thornwell,LAC,SG,1.35%
+374,nba,2018,375,Ryan Arcidiacono,CHI,PG,1.32%
+375,nba,2018,,Antonio Blakeney,CHI,SG,1.32%
+376,nba,2018,,Alfonzo McKinnie,GSW,PF,1.32%
+377,nba,2018,,Monte Morris,DEN,PG,1.32%
+378,nba,2018,,Tyrone Wallace,LAC,SG,1.32%
+379,nba,2018,380,Tyson Chandler,LAL,C,1.31%
+380,nba,2018,381,Shaquille Harrison,CHI,PG,1.29%
+381,nba,2018,382,Élie Okobo,PHX,PG,1.22%
+382,nba,2018,383,Jalen Brunson,DAL,PG,1.21%
+383,nba,2018,384,Joakim Noah,MEM,C,1.07%
+384,nba,2018,385,Melvin Frazier Jr.,ORL,SF,1.03%
+385,nba,2018,386,Isaac Bonga,LAL,PG,0.98%
+386,nba,2018,387,Devonte' Graham,CHA,PG,0.97%
+387,nba,2018,388,De'Anthony Melton,PHX,PG,0.93%
+388,nba,2018,389,Austin Rivers,HOU,SG,0.91%
+389,nba,2018,390,Chasson Randle,WAS,PG,0.85%
+390,nba,2018,391,Keita Bates-Diop,MIN,SF,0.82%
+391,nba,2018,,Ryan Broekhoff,DAL,SF,0.82%
+392,nba,2018,,Bruce Brown Jr.,DET,SG,0.82%
+393,nba,2018,,Jevon Carter,MEM,PG,0.82%
+394,nba,2018,,Hamidou Diallo,OKC,SG,0.82%
+395,nba,2018,,Isaiah Hartenstein,HOU,PF,0.82%
+396,nba,2018,,Alize Johnson,IND,PF,0.82%
+397,nba,2018,,Chimezie Metu,SAS,PF,0.82%
+398,nba,2018,,Khyri Thomas,DET,SG,0.82%
+399,nba,2018,,Gary Trent Jr.,POR,SG,0.82%
+400,nba,2018,,Jarred Vanderbilt,DEN,PF,0.82%
+401,nba,2018,,Brad Wanamaker,BOS,PG,0.82%
+402,nba,2018,,Kenrich Williams,NOP,SF,0.82%
+403,nba,2018,404,Patrick McCaw,TOR,SG,0.77%
+404,nba,2018,405,Kenneth Faried,HOU,PF,0.67%
+405,nba,2018,406,Gary Clark,HOU,SF,0.59%
+406,nba,2018,407,Bruno Caboclo,MEM,SF,0.51%
+407,nba,2018,408,Wesley Matthews,IND,SG,0.50%
+408,nba,2018,,Salah Mejri,DAL,C,0.50%
+409,nba,2018,410,Nik Stauskas,CLE,SG,0.49%
+410,nba,2018,411,Enes Freedom,POR,C,0.48%
+411,nba,2018,,Jeremy Lin,TOR,PG,0.48%
+412,nba,2018,413,John Jenkins,NYK,SG,0.48%
+413,nba,2018,414,Chris Boucher,TOR,PF,0.45%
+414,nba,2018,,Malcolm Miller,TOR,SF,0.45%
+415,nba,2018,416,Edmond Sumner,IND,PG,0.44%
+416,nba,2018,417,Markieff Morris,OKC,PF,0.42%
+417,nba,2018,418,Henry Ellenson,NYK,PF,0.34%
+418,nba,2018,419,Pau Gasol,MIL,C,0.33%
+419,nba,2018,420,Andrew Bogut,GSW,C,0.30%
+420,nba,2018,421,Danuel House Jr.,HOU,SF,0.24%
+421,nba,2018,422,Jaylen Adams,ATL,PG,0.23%
+422,nba,2018,423,Tim Frazier,MIL,PG,0.19%
+423,nba,2018,424,Dairis Bertans,NOP,SG,0.19%
+424,nba,2018,425,Ray Spalding,PHX,PF,0.18%
+425,nba,2018,426,Jimmer Fredette,PHX,PG,0.17%
+426,nba,2018,427,Deonte Burton,OKC,SF,0.15%
+427,nba,2018,428,Jodie Meeks,TOR,SG,0.13%
+428,nba,2018,429,Cam Reynolds,MIN,F,0.11%
+429,nba,2018,430,Walter Lemon Jr.,CHI,PG,0.10%
+430,nba,2018,431,Chris Chiozza,HOU,PG,0.09%
+431,nba,2018,432,Michael Carter-Williams,ORL,PG,0.06%
+432,nba,2018,,Greg Monroe,PHI,C,0.06%
+433,nba,2018,,Donatas Motiejunas,SAS,PF,0.06%
+434,nba,2018,435,Jermerrio Jones,LAL,F,0.05%
+435,nba,2018,436,Tyler Zeller,MEM,C,0.05%
+436,nba,2018,437,Isaac Humphries,ATL,C,0.05%
+437,nba,2018,,B.J. Johnson,SAC,SF,0.05%
+438,nba,2018,439,Billy Garrett,NYK,SG,0.04%
+439,nba,2018,440,Deyonta Davis,ATL,C,0.03%
+440,nba,2018,441,Michael Frazier,HOU,SG,0.02%
+441,nba,2018,442,Jonathan Gibson,BOS,PG,0.02%
+442,nba,2018,,Jordan McRae,WAS,SG,0.02%
+443,nba,2018,,Eric Moreland,TOR,PF,0.02%
+444,nba,2018,445,Yante Maten,MIA,PF,0.01%
+445,nba,2018,446,Mitch Creek,MIN,G,0.01%
+446,nba,2018,,Tarik Phillip,WAS,G,0.01%
+447,nba,2018,,Duncan Robinson,MIA,PF,0.01%
+448,nba,2018,449,Kendrick Nunn,MIA,PG,0.00%
+449,nba,2018,,Theo Pinson,BKN,SG,0.00%
+450,nba,2018,1,G,,,39
+451,nba,2018,2,F,,,37
+452,nba,2018,3,C,,,24
+453,nba,2018,1,CHA,,,5
+454,nba,2018,2,CLE,,,5
+455,nba,2018,3,GSW,,,5
+456,nba,2018,4,MIA,,,5
+457,nba,2018,5,MIL,,,5
+458,nba,2018,6,WAS,,,5
+459,nba,2018,7,DEN,,,4
+460,nba,2018,8,HOU,,,4
+461,nba,2018,9,MEM,,,4
+462,nba,2018,10,MIN,,,4
+463,nba,2018,11,OKC,,,4
+464,nba,2018,12,PHI,,,4
+465,nba,2018,13,POR,,,4
+466,nba,2018,14,TOR,,,4
+467,nba,2018,15,ORL,,,4
+468,nba,2018,16,UTA,,,4
+469,nba,2018,17,BOS,,,3
+470,nba,2018,18,CHI,,,3
+471,nba,2018,19,DET,,,3
+472,nba,2018,20,IND,,,3
+473,nba,2018,21,NOP,,,3
+474,nba,2018,22,BKN,,,2
+475,nba,2018,23,ATL,,,2
+476,nba,2018,24,DAL,,,2
+477,nba,2018,25,LAC,,,2
+478,nba,2018,26,LAL,,,2
+479,nba,2018,27,SAS,,,2
+480,nba,2018,28,NYK,,,1
+481,nba,2018,29,PHX,,,1
+482,nba,2018,30,SAC,,,1
+483,nba,2018,1,G,,,39
+484,nba,2018,2,F,,,37
+485,nba,2018,3,C,,,24
+486,nba,2018,1,CHA,,,5
+487,nba,2018,2,CLE,,,5
+488,nba,2018,3,GSW,,,5
+489,nba,2018,4,MIA,,,5
+490,nba,2018,5,MIL,,,5
+491,nba,2018,6,WAS,,,5
+492,nba,2018,7,DEN,,,4
+493,nba,2018,8,HOU,,,4
+494,nba,2018,9,MEM,,,4
+495,nba,2018,10,MIN,,,4
+496,nba,2018,11,OKC,,,4
+497,nba,2018,12,PHI,,,4
+498,nba,2018,13,POR,,,4
+499,nba,2018,14,TOR,,,4
+500,nba,2018,15,ORL,,,4
+501,nba,2018,16,UTA,,,4
+502,nba,2018,17,BOS,,,3
+503,nba,2018,18,CHI,,,3
+504,nba,2018,19,DET,,,3
+505,nba,2018,20,IND,,,3
+506,nba,2018,21,NOP,,,3
+507,nba,2018,22,BKN,,,2
+508,nba,2018,23,ATL,,,2
+509,nba,2018,24,DAL,,,2
+510,nba,2018,25,LAC,,,2
+511,nba,2018,26,LAL,,,2
+512,nba,2018,27,SAS,,,2
+513,nba,2018,28,NYK,,,1
+514,nba,2018,29,PHX,,,1
+515,nba,2018,30,SAC,,,1

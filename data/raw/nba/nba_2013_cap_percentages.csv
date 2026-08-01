@@ -1,0 +1,517 @@
+,league,season,rank,player,team,position,salary
+0,nba,2013,1,Kobe Bryant,LAL,SF,51.90%
+1,nba,2013,2,Dirk Nowitzki,DAL,PF,38.72%
+2,nba,2013,3,Amar'e Stoudemire,NYK,PF,36.95%
+3,nba,2013,4,Joe Johnson,BKN,SG,36.58%
+4,nba,2013,5,Carmelo Anthony,NYK,SF,36.45%
+5,nba,2013,6,Dwight Howard,HOU,C,34.96%
+6,nba,2013,7,Pau Gasol,LAL,C,32.87%
+7,nba,2013,8,Chris Bosh,MIA,PF,32.49%
+8,nba,2013,,LeBron James,MIA,PF,32.49%
+9,nba,2013,10,Dwyane Wade,MIA,SG,31.82%
+10,nba,2013,11,Chris Paul,LAC,PG,31.81%
+11,nba,2013,12,Deron Williams,BKN,PG,31.47%
+12,nba,2013,13,Zach Randolph,MEM,PF,31.08%
+13,nba,2013,14,Rudy Gay,SAC,SF,30.49%
+14,nba,2013,15,Kevin Durant,OKC,SF,30.39%
+15,nba,2013,16,Derrick Rose,CHI,PG,30.05%
+16,nba,2013,17,Blake Griffin,LAC,PF,28.02%
+17,nba,2013,18,Paul Pierce,BKN,SF,26.13%
+18,nba,2013,19,Carlos Boozer,CHI,PF,26.07%
+19,nba,2013,20,LaMarcus Aldridge,POR,PF,25.35%
+20,nba,2013,21,Marc Gasol,MEM,C,25.33%
+21,nba,2013,22,Brook Lopez,BKN,C,25.04%
+22,nba,2013,,Kevin Love,MIN,C,25.04%
+23,nba,2013,,Russell Westbrook,OKC,PG,25.04%
+24,nba,2013,25,Emeka Okafor,PHX,C,24.69%
+25,nba,2013,26,Tyson Chandler,NYK,C,24.46%
+26,nba,2013,27,Eric Gordon,NOP,SG,24.34%
+27,nba,2013,,Roy Hibbert,IND,C,24.34%
+28,nba,2013,29,Luol Deng,CLE,SF,24.33%
+29,nba,2013,30,Andrew Bogut,GSW,C,23.86%
+30,nba,2013,31,David Lee,GSW,PF,23.65%
+31,nba,2013,32,James Harden,HOU,SG,23.35%
+32,nba,2013,33,Al Jefferson,CHA,C,23.01%
+33,nba,2013,,Josh Smith,DET,SF,23.01%
+34,nba,2013,35,Nene Hilario,WAS,C,22.15%
+35,nba,2013,36,Andre Iguodala,GSW,SF,21.93%
+36,nba,2013,37,Tony Parker,SAS,PG,21.30%
+37,nba,2013,38,Kevin Garnett,BKN,PF,21.19%
+38,nba,2013,39,Serge Ibaka,OKC,PF,21.05%
+39,nba,2013,40,Nikola Pekovic,MIN,C,20.62%
+40,nba,2013,41,Al Horford,ATL,C,20.45%
+41,nba,2013,,Kris Humphries,BOS,PF,20.45%
+42,nba,2013,,David West,IND,PF,20.45%
+43,nba,2013,44,Rajon Rondo,BOS,PG,20.37%
+44,nba,2013,45,Andrea Bargnani,NYK,C,20.22%
+45,nba,2013,46,Tyreke Evans,NOP,SG,20.10%
+46,nba,2013,47,Nicolas Batum,POR,SF,19.25%
+47,nba,2013,48,Joakim Noah,CHI,C,18.92%
+48,nba,2013,49,Richard Jefferson,UTA,SF,18.82%
+49,nba,2013,50,DeAndre Jordan,LAC,C,18.72%
+50,nba,2013,51,Ty Lawson,DEN,PG,18.38%
+51,nba,2013,52,JaVale McGee,DEN,C,18.32%
+52,nba,2013,53,Tim Duncan,SAS,PF,17.66%
+53,nba,2013,54,Danilo Gallinari,DEN,SF,17.29%
+54,nba,2013,55,Gerald Wallace,BOS,SF,17.22%
+55,nba,2013,56,Tiago Splitter,SAS,PF,17.04%
+56,nba,2013,57,Stephen Curry,GSW,PG,16.85%
+57,nba,2013,58,Jrue Holiday,NOP,PG,16.55%
+58,nba,2013,59,DeMar DeRozan,TOR,SG,16.19%
+59,nba,2013,,Paul Millsap,ATL,PF,16.19%
+60,nba,2013,61,Shawn Marion,DAL,SF,15.88%
+61,nba,2013,62,Steve Nash,LAL,PG,15.85%
+62,nba,2013,63,Anderson Varejao,CLE,PF,15.40%
+63,nba,2013,64,Thaddeus Young,PHI,PF,15.08%
+64,nba,2013,65,Kendrick Perkins,OKC,C,14.87%
+65,nba,2013,66,Jeff Green,BOS,SF,14.83%
+66,nba,2013,67,Mike Conley,MEM,PG,14.66%
+67,nba,2013,,Jameer Nelson,ORL,PG,14.66%
+68,nba,2013,69,Charlie Villanueva,DET,PF,14.62%
+69,nba,2013,70,Rodney Stuckey,DET,PG,14.49%
+70,nba,2013,71,Omer Asik,HOU,C,14.27%
+71,nba,2013,,Jeremy Lin,HOU,PG,14.27%
+72,nba,2013,73,Ryan Anderson,NOP,PF,14.16%
+73,nba,2013,74,Marcus Thornton,BKN,SG,13.72%
+74,nba,2013,75,Monta Ellis,DAL,SG,13.63%
+75,nba,2013,,George Hill,IND,PG,13.63%
+76,nba,2013,,O.J. Mayo,MIL,SG,13.63%
+77,nba,2013,,Jeff Teague,ATL,PG,13.63%
+78,nba,2013,79,Ersan Ilyasova,MIL,PF,13.46%
+79,nba,2013,80,Trevor Ariza,WAS,SF,13.17%
+80,nba,2013,,Marcin Gortat,WAS,C,13.17%
+81,nba,2013,82,Brandon Jennings,DET,PG,13.05%
+82,nba,2013,83,John Salmons,TOR,SF,12.92%
+83,nba,2013,84,Taj Gibson,CHI,PF,12.87%
+84,nba,2013,85,Arron Afflalo,ORL,SG,12.78%
+85,nba,2013,,Goran Dragic,PHX,PG,12.78%
+86,nba,2013,,Manu Ginobili,SAS,SG,12.78%
+87,nba,2013,,Marvin Williams,UTA,PF,12.78%
+88,nba,2013,89,John Wall,WAS,PG,12.71%
+89,nba,2013,90,Metta World Peace,LAL,SF,12.48%
+90,nba,2013,91,Tayshaun Prince,MEM,SF,12.33%
+91,nba,2013,92,Wesley Matthews,POR,SG,11.72%
+92,nba,2013,93,Jose Calderon,DAL,PG,11.57%
+93,nba,2013,94,Kyle Korver,ATL,SG,11.52%
+94,nba,2013,95,Evan Turner,IND,SF,11.38%
+95,nba,2013,96,Spencer Hawes,CLE,PF,11.25%
+96,nba,2013,97,Amir Johnson,TOR,PF,11.08%
+97,nba,2013,,Carl Landry,SAC,PF,11.08%
+98,nba,2013,,Kevin Martin,MIN,SG,11.08%
+99,nba,2013,,J.J. Redick,LAC,SG,11.08%
+100,nba,2013,101,Brandon Bass,BOS,PF,10.99%
+101,nba,2013,102,Channing Frye,PHX,PF,10.91%
+102,nba,2013,103,Wilson Chandler,DEN,SF,10.81%
+103,nba,2013,104,Jarrett Jack,CLE,PG,10.74%
+104,nba,2013,105,Landry Fields,TOR,SF,10.65%
+105,nba,2013,106,Kyle Lowry,TOR,PG,10.58%
+106,nba,2013,107,Jason Richardson,PHI,SG,10.57%
+107,nba,2013,108,Derrick Favors,UTA,PF,10.24%
+108,nba,2013,109,Gerald Henderson,CHA,SG,10.23%
+109,nba,2013,110,Robin Lopez,POR,C,10.06%
+110,nba,2013,111,Chuck Hayes,TOR,PF,9.75%
+111,nba,2013,112,Jason Thompson,SAC,PF,9.62%
+112,nba,2013,113,Jason Terry,SAC,SG,9.59%
+113,nba,2013,114,Kyrie Irving,CLE,PG,9.56%
+114,nba,2013,115,J.R. Smith,NYK,SG,9.48%
+115,nba,2013,116,Anthony Davis,NOP,PF,9.16%
+116,nba,2013,117,Anthony Bennett,CLE,PF,9.07%
+117,nba,2013,118,Jamal Crawford,LAC,SG,8.90%
+118,nba,2013,,Courtney Lee,MEM,SG,8.90%
+119,nba,2013,,Louis Williams,ATL,SG,8.90%
+120,nba,2013,121,Zaza Pachulia,MIL,C,8.86%
+121,nba,2013,122,J.J Hickson,DEN,PF,8.78%
+122,nba,2013,,Martell Webster,WAS,SF,8.78%
+123,nba,2013,124,Keith Bogans,BOS,SF,8.62%
+124,nba,2013,125,Derrick Williams,SAC,PF,8.55%
+125,nba,2013,126,Chase Budinger,MIN,SF,8.52%
+126,nba,2013,,Andre Miller,WAS,PG,8.52%
+127,nba,2013,,Ramon Sessions,MIL,PG,8.52%
+128,nba,2013,,Brandan Wright,DAL,PF,8.52%
+129,nba,2013,130,DeMarcus Cousins,SAC,C,8.38%
+130,nba,2013,131,Michael Kidd-Gilchrist,CHA,SF,8.20%
+131,nba,2013,132,Victor Oladipo,ORL,SG,8.12%
+132,nba,2013,133,Boris Diaw,SAS,C,8.01%
+133,nba,2013,134,Jose Barea,MIN,PG,7.99%
+134,nba,2013,135,Luc Richard Mbah a Moute,MIN,PF,7.82%
+135,nba,2013,136,Luis Scola,IND,PF,7.68%
+136,nba,2013,137,Enes Freedom,UTA,C,7.68%
+137,nba,2013,138,Corey Brewer,MIN,SG,7.67%
+138,nba,2013,,Jonas Jerebko,DET,PF,7.67%
+139,nba,2013,140,Tony Allen,MEM,SG,7.66%
+140,nba,2013,141,Ekpe Udoh,MIL,PF,7.62%
+141,nba,2013,142,Timofey Mozgov,DEN,C,7.50%
+142,nba,2013,143,Udonis Haslem,MIA,PF,7.40%
+143,nba,2013,144,Luke Ridnour,CHA,PG,7.36%
+144,nba,2013,145,Bradley Beal,WAS,SG,7.36%
+145,nba,2013,146,Otto Porter Jr.,WAS,SF,7.29%
+146,nba,2013,147,Jared Dudley,LAC,SF,7.24%
+147,nba,2013,148,Samuel Dalembert,DAL,C,6.98%
+148,nba,2013,149,Greg Monroe,DET,C,6.96%
+149,nba,2013,150,Tristan Thompson,CLE,C,6.92%
+150,nba,2013,151,Kirk Hinrich,CHI,SG,6.92%
+151,nba,2013,152,Steve Blake,GSW,PG,6.82%
+152,nba,2013,,Elton Brand,ATL,PF,6.82%
+153,nba,2013,,Mario Chalmers,MIA,PG,6.82%
+154,nba,2013,,Ian Mahinmi,IND,C,6.82%
+155,nba,2013,,Travis Outlaw,NJN,SF,6.82%
+156,nba,2013,,Brandon Rush,UTA,SG,6.82%
+157,nba,2013,158,Matt Bonner,SAS,C,6.72%
+158,nba,2013,159,Thabo Sefolosha,OKC,SF,6.65%
+159,nba,2013,160,Dion Waiters,CLE,SG,6.64%
+160,nba,2013,161,Cody Zeller,CHA,C,6.57%
+161,nba,2013,162,Joel Anthony,BOS,C,6.48%
+162,nba,2013,163,Danny Green,SAS,SG,6.41%
+163,nba,2013,164,Steve Novak,TOR,SF,6.39%
+164,nba,2013,165,Al-Farouq Aminu,NOP,SF,6.39%
+165,nba,2013,166,Ricky Rubio,MIN,PG,6.27%
+166,nba,2013,167,Raymond Felton,NYK,PG,6.20%
+167,nba,2013,168,Thomas Robinson,POR,PF,6.01%
+168,nba,2013,,Jonas Valanciunas,TOR,C,6.01%
+169,nba,2013,170,Gerald Green,PHX,SG,5.96%
+170,nba,2013,,Jordan Hill,LAL,C,5.96%
+171,nba,2013,,Marreese Speights,GSW,PF,5.96%
+172,nba,2013,173,Alex Len,PHX,C,5.95%
+173,nba,2013,174,Gordon Hayward,UTA,SF,5.88%
+174,nba,2013,175,Jan Vesely,DEN,SF,5.69%
+175,nba,2013,176,Paul George,IND,SF,5.59%
+176,nba,2013,177,Shane Battier,MIA,SF,5.57%
+177,nba,2013,178,Matt Barnes,LAC,SF,5.54%
+178,nba,2013,,Carlos Delfino,MIL,SG,5.54%
+179,nba,2013,,Alonzo Gee,CLE,SF,5.54%
+180,nba,2013,,Gary Neal,CHA,PG,5.54%
+181,nba,2013,182,Darrell Arthur,DEN,PF,5.51%
+182,nba,2013,183,Ray Allen,MIA,SG,5.50%
+183,nba,2013,,Mirza Teletovic,BKN,PF,5.50%
+184,nba,2013,185,Damian Lillard,POR,PG,5.46%
+185,nba,2013,186,Mike Dunleavy,CHI,SF,5.42%
+186,nba,2013,,Tyler Hansbrough,TOR,PF,5.42%
+187,nba,2013,,Chris Kaman,LAL,C,5.42%
+188,nba,2013,,Andrei Kirilenko,BKN,SF,5.42%
+189,nba,2013,190,Vince Carter,DAL,SG,5.42%
+190,nba,2013,191,Nerlens Noel,PHI,C,5.41%
+191,nba,2013,192,Ed Davis,MEM,PF,5.37%
+192,nba,2013,193,Alexey Shved,MIN,PG,5.37%
+193,nba,2013,194,Jerryd Bayless,BOS,PG,5.34%
+194,nba,2013,195,Patrick Patterson,TOR,PF,5.29%
+195,nba,2013,196,LaVoy Allen,IND,PF,5.21%
+196,nba,2013,197,Larry Sanders,MIL,C,5.20%
+197,nba,2013,198,Bismack Biyombo,CHA,C,5.20%
+198,nba,2013,199,Chris Copeland,IND,SF,5.11%
+199,nba,2013,,Randy Foye,DEN,SG,5.11%
+200,nba,2013,,Kosta Koufos,MEM,C,5.11%
+201,nba,2013,,Travis Outlaw,SAC,SF,5.11%
+202,nba,2013,,Dorell Wright,POR,SF,5.11%
+203,nba,2013,204,Harrison Barnes,GSW,SF,4.98%
+204,nba,2013,205,Joel Freeland,POR,PF,4.94%
+205,nba,2013,206,Ben McLemore,SAC,SG,4.94%
+206,nba,2013,207,Brandon Knight,MIL,PG,4.76%
+207,nba,2013,208,Will Bynum,DET,PG,4.76%
+208,nba,2013,209,Kevin Seraphin,WAS,PF,4.71%
+209,nba,2013,210,Marco Belinelli,SAS,SG,4.69%
+210,nba,2013,211,Aaron Gray,SAC,C,4.59%
+211,nba,2013,212,Terrence Ross,TOR,SG,4.56%
+212,nba,2013,213,Kentavious Caldwell-Pope,DET,SG,4.52%
+213,nba,2013,214,Wayne Ellington,DAL,SG,4.52%
+214,nba,2013,,Josh McRoberts,CHA,PF,4.52%
+215,nba,2013,,Mo Williams,POR,PG,4.52%
+216,nba,2013,217,Eric Bledsoe,PHX,PG,4.48%
+217,nba,2013,218,Nick Collison,OKC,PF,4.41%
+218,nba,2013,219,Kemba Walker,CHA,PG,4.38%
+219,nba,2013,220,DeMarre Carroll,ATL,SF,4.36%
+220,nba,2013,221,Avery Bradley,BOS,SG,4.28%
+221,nba,2013,222,Chauncey Billups,DET,PG,4.26%
+222,nba,2013,,Jason Maxiell,ORL,PF,4.26%
+223,nba,2013,,Jason Smith,NOP,PF,4.26%
+224,nba,2013,225,Andre Drummond,DET,C,4.20%
+225,nba,2013,226,Trey Burke,UTA,PG,4.16%
+226,nba,2013,227,Trevor Booker,WAS,PF,4.01%
+227,nba,2013,228,Austin Rivers,NOP,SG,3.99%
+228,nba,2013,229,Klay Thompson,GSW,SG,3.95%
+229,nba,2013,230,C.J. McCollum,POR,SG,3.95%
+230,nba,2013,231,Quincy Pondexter,MEM,SG,3.79%
+231,nba,2013,232,C.J. Miles,CLE,SF,3.79%
+232,nba,2013,233,Meyers Leonard,POR,C,3.79%
+233,nba,2013,234,Alec Burks,UTA,SG,3.75%
+234,nba,2013,235,Michael Carter-Williams,PHI,PG,3.75%
+235,nba,2013,236,Dante Cunningham,MIN,PF,3.72%
+236,nba,2013,237,Jordan Crawford,GSW,SG,3.69%
+237,nba,2013,238,Greivis Vasquez,TOR,PG,3.66%
+238,nba,2013,239,Jeremy Lamb,OKC,SG,3.60%
+239,nba,2013,240,Markieff Morris,PHX,PF,3.56%
+240,nba,2013,241,Steven Adams,OKC,C,3.56%
+241,nba,2013,242,Brendan Haywood,CHA,C,3.49%
+242,nba,2013,243,Nate Robinson,DEN,PG,3.44%
+243,nba,2013,,C.J. Watson,IND,PG,3.44%
+244,nba,2013,245,Vitor Faverani,BOS,C,3.41%
+245,nba,2013,,Jermaine O'Neal,GSW,C,3.41%
+246,nba,2013,247,Marcus Morris Sr.,PHX,PF,3.39%
+247,nba,2013,248,Kelly Olynyk,BOS,C,3.39%
+248,nba,2013,249,John Henson,MIL,PF,3.25%
+249,nba,2013,250,Darren Collison,LAC,PG,3.24%
+250,nba,2013,251,Kawhi Leonard,SAS,SF,3.22%
+251,nba,2013,252,Shabazz Muhammad,MIN,SF,3.22%
+252,nba,2013,253,Maurice Harkless,ORL,SF,3.08%
+253,nba,2013,254,Nikola Vucevic,ORL,C,3.06%
+254,nba,2013,255,Giannis Antetokounmpo,MIL,SF,3.05%
+255,nba,2013,256,Jeff Ayres,SAS,PF,2.98%
+256,nba,2013,,Luigi Datome,DET,SF,2.98%
+257,nba,2013,,Anthony Randolph,DEN,PF,2.98%
+258,nba,2013,259,Iman Shumpert,NYK,SG,2.90%
+259,nba,2013,260,Reggie Evans,SAC,PF,2.89%
+260,nba,2013,261,Jeremy Evans,UTA,SF,2.83%
+261,nba,2013,262,Tyler Zeller,CLE,C,2.78%
+262,nba,2013,263,Chris Singleton,WAS,SF,2.76%
+263,nba,2013,264,Toney Douglas,MIA,SG,2.73%
+264,nba,2013,,John Lucas III,UTA,PG,2.73%
+265,nba,2013,266,Pablo Prigioni,NYK,PG,2.71%
+266,nba,2013,267,Terrence Jones,HOU,PF,2.64%
+267,nba,2013,268,Jodie Meeks,LAL,SG,2.64%
+268,nba,2013,269,Tobias Harris,ORL,PF,2.63%
+269,nba,2013,270,Shane Larkin,DAL,PG,2.62%
+270,nba,2013,271,Gustavo Ayon,ATL,PF,2.56%
+271,nba,2013,,James Jones,MIA,SG,2.56%
+272,nba,2013,,Miroslav Raduljica,MIL,C,2.56%
+273,nba,2013,,Ronny Turiaf,MIN,C,2.56%
+274,nba,2013,275,Andrew Nicholson,ORL,PF,2.53%
+275,nba,2013,276,Sergey Karasev,CLE,SG,2.50%
+276,nba,2013,277,Nando De Colo,TOR,PG,2.49%
+277,nba,2013,278,Evan Fournier,DEN,SG,2.42%
+278,nba,2013,,Donatas Motiejunas,HOU,PF,2.42%
+279,nba,2013,280,Tony Snell,CHI,SG,2.40%
+280,nba,2013,281,Chris Andersen,MIA,PF,2.39%
+281,nba,2013,,Willie Green,LAC,SF,2.39%
+282,nba,2013,,Rashard Lewis,MIA,PF,2.39%
+283,nba,2013,284,Scotty Hopson,CLE,SF,2.37%
+284,nba,2013,285,Andray Blatche,BKN,C,2.34%
+285,nba,2013,286,Kenneth Faried,DEN,PF,2.33%
+286,nba,2013,287,Jared Sullinger,BOS,PF,2.33%
+287,nba,2013,288,Gorgui Dieng,MIN,C,2.31%
+288,nba,2013,289,Dennis Schröder,ATL,PG,2.30%
+289,nba,2013,290,Victor Claver,POR,SF,2.27%
+290,nba,2013,291,Mason Plumlee,BKN,C,2.21%
+291,nba,2013,292,Francisco Garcia,HOU,SG,2.16%
+292,nba,2013,,Devin Harris,DAL,PG,2.16%
+293,nba,2013,,Ronnie Price,ORL,PG,2.16%
+294,nba,2013,295,Reggie Jackson,OKC,PG,2.15%
+295,nba,2013,296,John Jenkins,ATL,SG,2.15%
+296,nba,2013,297,Solomon Hill,IND,SF,2.12%
+297,nba,2013,298,MarShon Brooks,LAL,SG,2.06%
+298,nba,2013,299,Pero Antic,ATL,PF,2.05%
+299,nba,2013,,Hasheem Thabeet,OKC,C,2.05%
+300,nba,2013,301,Tim Hardaway Jr.,NYK,SG,2.04%
+301,nba,2013,302,Jordan Hamilton,HOU,SF,1.99%
+302,nba,2013,303,Tony Wroten Jr.,PHI,SG,1.98%
+303,nba,2013,304,Reggie Bullock,LAC,SF,1.96%
+304,nba,2013,305,Patty Mills,SAS,PG,1.93%
+305,nba,2013,306,Norris Cole,MIA,PG,1.92%
+306,nba,2013,307,Miles Plumlee,PHX,C,1.91%
+307,nba,2013,308,Cory Joseph,SAS,PG,1.91%
+308,nba,2013,309,Jimmy Butler,CHI,SG,1.90%
+309,nba,2013,310,Nick Young,LAL,SG,1.89%
+310,nba,2013,311,Arnett Moultrie,PHI,PF,1.86%
+311,nba,2013,312,Perry Jones III,OKC,SF,1.84%
+312,nba,2013,313,Rudy Gobert,UTA,C,1.84%
+313,nba,2013,314,Marquis Teague,BKN,PG,1.83%
+314,nba,2013,315,Festus Ezeli,GSW,C,1.82%
+315,nba,2013,316,Archie Goodwin,PHX,SG,1.81%
+316,nba,2013,317,Nemanja Nedovic,GSW,PG,1.80%
+317,nba,2013,318,Kyle Singler,DET,SF,1.78%
+318,nba,2013,319,Anthony Morrow,NOP,SG,1.75%
+319,nba,2013,320,Lance Stephenson,IND,SG,1.71%
+320,nba,2013,321,Caron Butler,OKC,SF,1.70%
+321,nba,2013,,Andrew Bynum,IND,C,1.70%
+322,nba,2013,323,Ishmael Smith,PHX,PG,1.62%
+323,nba,2013,324,Alan Anderson,BKN,SG,1.62%
+324,nba,2013,,Omri Casspi,HOU,SF,1.62%
+325,nba,2013,,Austin Daye,SAS,PF,1.62%
+326,nba,2013,,B.J. Mullens,PHI,PF,1.62%
+327,nba,2013,328,Chandler Parsons,HOU,SF,1.58%
+328,nba,2013,329,Jeff Adrien,MIL,SF,1.56%
+329,nba,2013,,James Anderson,PHI,SG,1.56%
+330,nba,2013,331,Jon Leuer,MEM,PF,1.53%
+331,nba,2013,332,Cole Aldrich,NYK,C,1.51%
+332,nba,2013,,Michael Beasley,MIA,SF,1.51%
+333,nba,2013,,DeJaun Blair,DAL,C,1.51%
+334,nba,2013,,Aaron Brooks,DEN,PG,1.51%
+335,nba,2013,,Rasual Butler,IND,SF,1.51%
+336,nba,2013,,Jordan Farmar,LAL,PG,1.51%
+337,nba,2013,,Derek Fisher,OKC,PG,1.51%
+338,nba,2013,,Josh Harrellson,DET,PF,1.51%
+339,nba,2013,,Al Harrington,WAS,PF,1.51%
+340,nba,2013,,Xavier Henry,LAL,SG,1.51%
+341,nba,2013,,Ryan Hollins,LAC,C,1.51%
+342,nba,2013,,Wesley Johnson,LAL,SF,1.51%
+343,nba,2013,,Shaun Livingston,BKN,PG,1.51%
+344,nba,2013,,Shelvin Mack,ATL,PG,1.51%
+345,nba,2013,,Kenyon Martin,NYK,PF,1.51%
+346,nba,2013,,Mike Miller,MEM,SG,1.51%
+347,nba,2013,,Nazr Mohammed,CHI,C,1.51%
+348,nba,2013,,E'Twaun Moore,ORL,SG,1.51%
+349,nba,2013,,Greg Oden,MIA,C,1.51%
+350,nba,2013,,Jannero Pargo,CHA,PG,1.51%
+351,nba,2013,,Donald Sloan,IND,PG,1.51%
+352,nba,2013,,Julyan Stone,TOR,PG,1.51%
+353,nba,2013,,Garrett Temple,WAS,SG,1.51%
+354,nba,2013,,Isaiah Thomas,SAC,PG,1.51%
+355,nba,2013,,Anthony Tolliver,CHA,PF,1.51%
+356,nba,2013,,P.J. Tucker,PHX,SF,1.51%
+357,nba,2013,,Beno Udrih,MEM,PG,1.51%
+358,nba,2013,,Earl Watson,POR,PG,1.51%
+359,nba,2013,360,Draymond Green,GSW,PF,1.49%
+360,nba,2013,361,Allen Crabbe,POR,SG,1.41%
+361,nba,2013,362,Elliot Williams,PHI,SG,1.36%
+362,nba,2013,363,Quincy Acy,SAC,PF,1.34%
+363,nba,2013,,Will Barton,POR,SG,1.34%
+364,nba,2013,,Aron Baynes,SAS,C,1.34%
+365,nba,2013,,Kent Bazemore,LAL,SG,1.34%
+366,nba,2013,,Patrick Beverley,HOU,PG,1.34%
+367,nba,2013,,Jae Crowder,DAL,SF,1.34%
+368,nba,2013,,Bernard James,DAL,C,1.34%
+369,nba,2013,,Doron Lamb,ORL,SG,1.34%
+370,nba,2013,,Khris Middleton,MIL,SF,1.34%
+371,nba,2013,,Darius Miller,NOP,SF,1.34%
+372,nba,2013,,Quincy Miller,DEN,SF,1.34%
+373,nba,2013,,Kyle O'Quinn,ORL,C,1.34%
+374,nba,2013,,Brian Roberts,NOP,PG,1.34%
+375,nba,2013,,Robert Sacre,LAL,C,1.34%
+376,nba,2013,,Mike Scott,ATL,PF,1.34%
+377,nba,2013,,Henry Sims,PHI,C,1.34%
+378,nba,2013,,Jeff Taylor,CHA,SG,1.34%
+379,nba,2013,380,Hedo Turkoglu,LAC,SF,1.28%
+380,nba,2013,381,Andre Roberson,OKC,SG,1.26%
+381,nba,2013,382,Diante Garrett,UTA,PG,1.23%
+382,nba,2013,383,Chris Douglas-Roberts,CHA,SG,1.21%
+383,nba,2013,384,Malcolm Thomas,UTA,PF,1.20%
+384,nba,2013,385,Dwight Buycks,TOR,PG,1.19%
+385,nba,2013,386,D.J. Augustin,CHI,PG,1.11%
+386,nba,2013,387,Alexis Ajinca,NOP,C,1.08%
+387,nba,2013,388,James Johnson,MEM,PF,1.08%
+388,nba,2013,389,Isaiah Canaan,HOU,PG,0.97%
+389,nba,2013,390,Jeremy Tyler,NYK,PF,0.95%
+390,nba,2013,391,Kendall Marshall,LAL,PG,0.93%
+391,nba,2013,392,Ricky Ledo,DAL,SG,0.93%
+392,nba,2013,393,Jamaal Franklin,MEM,SG,0.91%
+393,nba,2013,394,Ray McCallum,SAC,PG,0.89%
+394,nba,2013,395,Carrick Felix,CLE,SG,0.87%
+395,nba,2013,396,Tony Mitchell,DET,PF,0.85%
+396,nba,2013,,Nate Wolters,MIL,PG,0.85%
+397,nba,2013,398,Nick Calathes,MEM,SG,0.84%
+398,nba,2013,,Dionte Christmas,PHX,SG,0.84%
+399,nba,2013,,Ian Clark,UTA,SG,0.84%
+400,nba,2013,,Robert Covington,HOU,SF,0.84%
+401,nba,2013,,Brandon Davies,PHI,PF,0.84%
+402,nba,2013,,Matthew Dellavedova,CLE,PG,0.84%
+403,nba,2013,,Robbie Hummel,MIN,SF,0.84%
+404,nba,2013,,Ryan Kelly,LAL,PF,0.84%
+405,nba,2013,,Ognjen Kuzmic,GSW,C,0.84%
+406,nba,2013,,Gal Mekel,DAL,PG,0.84%
+407,nba,2013,,Erik Murphy,UTA,PF,0.84%
+408,nba,2013,,Toure Murry,NYK,SF,0.84%
+409,nba,2013,,Phil Pressey,BOS,PG,0.84%
+410,nba,2013,,Glen Rice Jr.,WAS,SF,0.84%
+411,nba,2013,,Peyton Siva,DET,PG,0.84%
+412,nba,2013,,Hollis Thompson,PHI,SG,0.84%
+413,nba,2013,,Jeff Withey,NOP,C,0.84%
+414,nba,2013,415,Leandro Barbosa,PHX,SG,0.70%
+415,nba,2013,416,Luke Babbitt,NOP,SF,0.66%
+416,nba,2013,417,Danny Granger,LAC,SF,0.61%
+417,nba,2013,418,Glen Davis,LAC,PF,0.58%
+418,nba,2013,419,Cartier Martin,ATL,PF,0.57%
+419,nba,2013,420,Christapher Johnson,BOS,SF,0.55%
+420,nba,2013,421,Shavlik Randolph,PHX,PF,0.52%
+421,nba,2013,422,Dewayne Dedmon,ORL,C,0.51%
+422,nba,2013,423,Jason Collins,BKN,C,0.46%
+423,nba,2013,424,Jimmer Fredette,CHI,PG,0.41%
+424,nba,2013,425,Shannon Brown,NYK,PG,0.33%
+425,nba,2013,426,Jarvis Varnado,PHI,PF,0.29%
+426,nba,2013,427,Mike Muscala,ATL,PF,0.28%
+427,nba,2013,428,Troy Daniels,HOU,SG,0.27%
+428,nba,2013,429,Drew Gooden,WAS,PF,0.27%
+429,nba,2013,430,Willie Reed,SAC,C,0.17%
+430,nba,2013,431,Justin Hamilton,MIA,C,0.17%
+431,nba,2013,432,Chris Babb,BOS,SG,0.13%
+432,nba,2013,433,Ronnie Brewer,CHI,SF,0.12%
+433,nba,2013,434,Jorge Gutierrez,BKN,PG,0.10%
+434,nba,2013,435,Mike James,CHI,PG,0.10%
+435,nba,2013,436,Louis Amundson,CHI,PF,0.08%
+436,nba,2013,437,Othyus Jeffers,MIN,PG,0.08%
+437,nba,2013,438,Hilton Armstrong,GSW,C,0.07%
+438,nba,2013,439,Dexter Pittman,HOU,C,0.06%
+439,nba,2013,440,D.J. White,CHA,PF,0.06%
+440,nba,2013,441,Jared Cunningham,SAC,SG,0.06%
+441,nba,2013,442,Melvin Ely,NOP,C,0.05%
+442,nba,2013,443,Grant Jerrett,OKC,PF,0.05%
+443,nba,2013,444,Damion James,SAS,SG,0.04%
+444,nba,2013,445,James Southerland,NOP,SF,0.03%
+445,nba,2013,446,Greg Smith,CHI,C,0.03%
+446,nba,2013,447,Josh Powell,HOU,PF,0.02%
+447,nba,2013,448,Chris Wright,MIL,SF,0.02%
+448,nba,2013,449,Casper Ware,PHI,PG,0.01%
+449,nba,2013,450,Lamar Odom,NYK,PF,0.01%
+450,nba,2013,1,F,,,45
+451,nba,2013,2,G,,,35
+452,nba,2013,3,C,,,20
+453,nba,2013,1,BKN,,,6
+454,nba,2013,2,ATL,,,4
+455,nba,2013,3,BOS,,,4
+456,nba,2013,4,CHI,,,4
+457,nba,2013,5,DAL,,,4
+458,nba,2013,6,DET,,,4
+459,nba,2013,7,GSW,,,4
+460,nba,2013,8,HOU,,,4
+461,nba,2013,9,IND,,,4
+462,nba,2013,10,LAC,,,4
+463,nba,2013,11,LAL,,,4
+464,nba,2013,12,MEM,,,4
+465,nba,2013,13,NOP,,,4
+466,nba,2013,14,NYK,,,4
+467,nba,2013,15,OKC,,,4
+468,nba,2013,16,SAS,,,4
+469,nba,2013,17,WAS,,,4
+470,nba,2013,18,CLE,,,3
+471,nba,2013,19,DEN,,,3
+472,nba,2013,20,MIA,,,3
+473,nba,2013,21,MIN,,,3
+474,nba,2013,22,POR,,,3
+475,nba,2013,23,TOR,,,3
+476,nba,2013,24,MIL,,,2
+477,nba,2013,25,PHX,,,2
+478,nba,2013,26,SAC,,,2
+479,nba,2013,27,ORL,,,2
+480,nba,2013,28,UTA,,,2
+481,nba,2013,29,CHA,,,1
+482,nba,2013,30,PHI,,,1
+483,nba,2013,1,F,,,45
+484,nba,2013,2,G,,,35
+485,nba,2013,3,C,,,20
+486,nba,2013,1,BKN,,,6
+487,nba,2013,2,ATL,,,4
+488,nba,2013,3,BOS,,,4
+489,nba,2013,4,CHI,,,4
+490,nba,2013,5,DAL,,,4
+491,nba,2013,6,DET,,,4
+492,nba,2013,7,GSW,,,4
+493,nba,2013,8,HOU,,,4
+494,nba,2013,9,IND,,,4
+495,nba,2013,10,LAC,,,4
+496,nba,2013,11,LAL,,,4
+497,nba,2013,12,MEM,,,4
+498,nba,2013,13,NOP,,,4
+499,nba,2013,14,NYK,,,4
+500,nba,2013,15,OKC,,,4
+501,nba,2013,16,SAS,,,4
+502,nba,2013,17,WAS,,,4
+503,nba,2013,18,CLE,,,3
+504,nba,2013,19,DEN,,,3
+505,nba,2013,20,MIA,,,3
+506,nba,2013,21,MIN,,,3
+507,nba,2013,22,POR,,,3
+508,nba,2013,23,TOR,,,3
+509,nba,2013,24,MIL,,,2
+510,nba,2013,25,PHX,,,2
+511,nba,2013,26,SAC,,,2
+512,nba,2013,27,ORL,,,2
+513,nba,2013,28,UTA,,,2
+514,nba,2013,29,CHA,,,1
+515,nba,2013,30,PHI,,,1

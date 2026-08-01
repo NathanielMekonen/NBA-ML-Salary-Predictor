@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+wheels/
+
+# Virtual environments
+.venv/
+
+# uv
+uv.lock
+
+# environment variables
+.env
+
+# IDE
+.vscode/
+.idea/

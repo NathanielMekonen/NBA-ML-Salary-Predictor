@@ -1,0 +1,514 @@
+,league,season,rank,player,team,position,salary
+0,nba,2021,1,Stephen Curry,GSW,PG,40.73%
+1,nba,2021,2,James Harden,PHI,SG,39.42%
+2,nba,2021,,John Wall,HOU,PG,39.42%
+3,nba,2021,4,Russell Westbrook,LAL,PG,39.33%
+4,nba,2021,5,Kevin Durant,BKN,SF,37.38%
+5,nba,2021,6,LeBron James,LAL,PF,36.63%
+6,nba,2021,7,Giannis Antetokounmpo,MIL,PF,35.00%
+7,nba,2021,,Paul George,LAC,SG,35.00%
+8,nba,2021,,Kawhi Leonard,LAC,SF,35.00%
+9,nba,2021,,Damian Lillard,POR,PG,35.00%
+10,nba,2021,11,Klay Thompson,GSW,SG,33.79%
+11,nba,2021,12,Jimmy Butler,MIA,SF,32.04%
+12,nba,2021,13,Tobias Harris,PHI,PF,32.02%
+13,nba,2021,14,Khris Middleton,MIL,SF,31.58%
+14,nba,2021,15,Anthony Davis,LAL,C,31.46%
+15,nba,2021,16,Rudy Gobert,UTA,C,31.44%
+16,nba,2021,17,Kyrie Irving,BKN,PG,31.43%
+17,nba,2021,18,Bradley Beal,WAS,SG,30.00%
+18,nba,2021,19,Pascal Siakam,TOR,PF,29.36%
+19,nba,2021,,Ben Simmons,BKN,PG,29.36%
+20,nba,2021,21,Devin Booker,PHX,SG,28.16%
+21,nba,2021,,Kristaps Porzingis,WAS,PF,28.16%
+22,nba,2021,,Karl-Anthony Towns,MIN,C,28.16%
+23,nba,2021,24,Joel Embiid,PHI,C,28.09%
+24,nba,2021,,Andrew Wiggins,GSW,SF,28.09%
+25,nba,2021,26,Kevin Love,CLE,PF,27.81%
+26,nba,2021,27,Jrue Holiday,MIL,PG,27.73%
+27,nba,2021,28,Nikola Jokic,DEN,C,27.62%
+28,nba,2021,29,C.J. McCollum,NOP,SG,27.46%
+29,nba,2021,30,Chris Paul,PHX,PG,27.40%
+30,nba,2021,31,D'Angelo Russell,MIN,PG,26.70%
+31,nba,2021,32,Gordon Hayward,CHA,SF,26.62%
+32,nba,2021,33,Brandon Ingram,NOP,SF,26.21%
+33,nba,2021,,Jamal Murray,DEN,PG,26.21%
+34,nba,2021,35,Bam Adebayo,MIA,C,25.00%
+35,nba,2021,,De'Aaron Fox,SAC,PG,25.00%
+36,nba,2021,,Donovan Mitchell,UTA,SG,25.00%
+37,nba,2021,,Jayson Tatum,BOS,PF,25.00%
+38,nba,2021,39,Al Horford,BOS,C,24.02%
+39,nba,2021,40,Kyle Lowry,MIA,PG,24.00%
+40,nba,2021,41,Jaylen Brown,BOS,SF,23.80%
+41,nba,2021,42,DeMar DeRozan,CHI,SF,23.13%
+42,nba,2021,43,Draymond Green,GSW,PF,21.37%
+43,nba,2021,44,Nikola Vucevic,CHI,C,21.35%
+44,nba,2021,45,Buddy Hield,IND,SG,20.53%
+45,nba,2021,46,John Collins,ATL,PF,20.46%
+46,nba,2021,47,Malcolm Brogdon,IND,PG,19.30%
+47,nba,2021,48,Tim Hardaway Jr.,DAL,SG,18.95%
+48,nba,2021,49,Mike Conley,UTA,PG,18.68%
+49,nba,2021,50,Gary Harris,ORL,SG,18.22%
+50,nba,2021,51,Danilo Gallinari,ATL,PF,18.21%
+51,nba,2021,52,Harrison Barnes,SAC,PF,18.04%
+52,nba,2021,53,Jerami Grant,DET,PF,17.79%
+53,nba,2021,54,Jarrett Allen,CLE,C,17.79%
+54,nba,2021,55,Julius Randle,NYK,PF,17.61%
+55,nba,2021,56,Fred VanVleet,TOR,PG,17.50%
+56,nba,2021,57,Zach LaVine,CHI,SG,17.35%
+57,nba,2021,58,Spencer Dinwiddie,DAL,PG,17.18%
+58,nba,2021,59,Bojan Bogdanovic,UTA,SF,16.63%
+59,nba,2021,60,Lonzo Ball,CHI,PG,16.55%
+60,nba,2021,61,Domantas Sabonis,SAC,PF,16.46%
+61,nba,2021,62,Eric Gordon,HOU,SG,16.21%
+62,nba,2021,63,Eric Bledsoe,POR,PG,16.12%
+63,nba,2021,64,Bogdan Bogdanovic,ATL,SG,16.01%
+64,nba,2021,,Myles Turner,IND,C,16.01%
+65,nba,2021,66,Terry Rozier,CHA,PG,15.93%
+66,nba,2021,67,Ricky Rubio,IND,PG,15.83%
+67,nba,2021,68,Caris LeVert,CLE,SG,15.57%
+68,nba,2021,69,Jonathan Isaac,ORL,PF,15.48%
+69,nba,2021,70,Joe Harris,BKN,SG,15.44%
+70,nba,2021,71,Evan Fournier,NYK,SG,15.25%
+71,nba,2021,72,Clint Capela,ATL,C,15.21%
+72,nba,2021,73,Steven Adams,MEM,C,15.19%
+73,nba,2021,74,Markelle Fultz,ORL,PG,14.68%
+74,nba,2021,75,Aaron Gordon,DEN,PF,14.60%
+75,nba,2021,76,Gary Trent Jr.,TOR,SG,14.43%
+76,nba,2021,77,OG Anunoby,TOR,SF,14.30%
+77,nba,2021,78,Davis Bertans,DAL,PF,14.23%
+78,nba,2021,79,Lauri Markkanen,CLE,PF,13.96%
+79,nba,2021,80,Duncan Robinson,MIA,SF,13.92%
+80,nba,2021,81,Marcus Morris Sr.,LAC,SF,13.90%
+81,nba,2021,82,Will Barton,DEN,SG,13.90%
+82,nba,2021,83,Norman Powell,LAC,SG,13.80%
+83,nba,2021,84,Dejounte Murray,SAS,PG,13.73%
+84,nba,2021,85,Derrick White,BOS,PG,13.50%
+85,nba,2021,86,Malik Beasley,MIN,SG,12.89%
+86,nba,2021,87,Patrick Beverley,MIN,PG,12.74%
+87,nba,2021,88,Thaddeus Young,TOR,PF,12.62%
+88,nba,2021,89,Jonas Valanciunas,NOP,C,12.45%
+89,nba,2021,90,Marcus Smart,BOS,PG,12.31%
+90,nba,2021,91,Doug McDermott,SAS,SF,12.23%
+91,nba,2021,92,Christian Wood,HOU,C,12.16%
+92,nba,2021,93,Derrick Rose,NYK,PG,11.96%
+93,nba,2021,94,Luke Kennard,LAC,SG,11.87%
+94,nba,2021,95,Taurean Prince,MIN,PF,11.86%
+95,nba,2021,96,Brook Lopez,MIL,C,11.83%
+96,nba,2021,97,Kentavious Caldwell-Pope,WAS,SG,11.60%
+97,nba,2021,98,Joe Ingles,POR,SF,11.60%
+98,nba,2021,99,Kyle Kuzma,WAS,PF,11.56%
+99,nba,2021,100,Robert Covington,LAC,PF,11.54%
+100,nba,2021,101,T.J. Warren,IND,SF,11.29%
+101,nba,2021,102,Deandre Ayton,PHX,C,11.24%
+102,nba,2021,103,Terrence Ross,ORL,SG,11.12%
+103,nba,2021,104,Jordan Clarkson,UTA,SG,11.05%
+104,nba,2021,105,Dillon Brooks,MEM,SF,10.85%
+105,nba,2021,106,Kelly Olynyk,DET,PF,10.85%
+106,nba,2021,107,Josh Hart,POR,SG,10.67%
+107,nba,2021,,Jusuf Nurkic,POR,C,10.67%
+108,nba,2021,,Kelly Oubre Jr.,CHA,SF,10.67%
+109,nba,2021,110,Josh Richardson,SAS,SG,10.33%
+110,nba,2021,111,Marvin Bagley III,DET,PF,10.06%
+111,nba,2021,112,Dwight Powell,DAL,C,9.86%
+112,nba,2021,113,Devonte' Graham,NOP,PG,9.79%
+113,nba,2021,114,Zion Williamson,NOP,PF,9.55%
+114,nba,2021,115,Larry Nance Jr.,NOP,PF,9.51%
+115,nba,2021,116,Jeremy Lamb,SAC,SG,9.34%
+116,nba,2021,117,Richaun Holmes,SAC,C,9.24%
+117,nba,2021,,Reggie Jackson,LAC,PG,9.24%
+118,nba,2021,119,Anthony Edwards,MIN,SG,9.11%
+119,nba,2021,120,Serge Ibaka,MIL,C,9.09%
+120,nba,2021,121,Luka Doncic,DAL,PG,9.05%
+121,nba,2021,122,Cade Cunningham,DET,PG,8.94%
+122,nba,2021,123,Danny Green,PHI,SF,8.90%
+123,nba,2021,124,Kyle Anderson,MEM,PF,8.84%
+124,nba,2021,125,Jae Crowder,PHX,SF,8.65%
+125,nba,2021,,Derrick Favors,OKC,C,8.65%
+126,nba,2021,,Montrezl Harrell,CHA,C,8.65%
+127,nba,2021,,Derrick Jones Jr.,CHI,SF,8.65%
+128,nba,2021,129,Ja Morant,MEM,PG,8.54%
+129,nba,2021,130,Reggie Bullock,DAL,SF,8.48%
+130,nba,2021,,Alec Burks,NYK,SG,8.48%
+131,nba,2021,132,Talen Horton-Tucker,LAL,SG,8.45%
+132,nba,2021,133,Mason Plumlee,CHA,C,8.23%
+133,nba,2021,134,Jaren Jackson Jr.,MEM,PF,8.17%
+134,nba,2021,135,James Wiseman,GSW,C,8.15%
+135,nba,2021,136,Jalen Green,HOU,SG,8.00%
+136,nba,2021,137,Monte Morris,DEN,PG,7.87%
+137,nba,2021,138,De'Anthony Melton,MEM,SG,7.83%
+138,nba,2021,139,Nerlens Noel,NYK,C,7.83%
+139,nba,2021,,Royce O'Neale,UTA,SF,7.83%
+140,nba,2021,141,Maxi Kleber,DAL,PF,7.78%
+141,nba,2021,,Jakob Poeltl,SAS,C,7.78%
+142,nba,2021,143,Kemba Walker,NYK,PG,7.77%
+143,nba,2021,144,Thomas Bryant,WAS,C,7.71%
+144,nba,2021,145,R.J. Barrett,NYK,SG,7.67%
+145,nba,2021,146,Alex Caruso,CHI,SG,7.65%
+146,nba,2021,147,Delon Wright,ATL,PG,7.58%
+147,nba,2021,148,Dario Saric,PHX,PF,7.57%
+148,nba,2021,149,Tyus Jones,MEM,PG,7.45%
+149,nba,2021,150,Trae Young,ATL,PG,7.41%
+150,nba,2021,151,Daniel Theis,BOS,C,7.37%
+151,nba,2021,152,LaMelo Ball,CHA,PG,7.32%
+152,nba,2021,153,Seth Curry,BKN,SG,7.30%
+153,nba,2021,154,JaMychal Green,DEN,PF,7.29%
+154,nba,2021,155,Cedi Osman,CLE,SF,7.24%
+155,nba,2021,156,Evan Mobley,CLE,PF,7.18%
+156,nba,2021,157,De'Andre Hunter,ATL,SF,6.92%
+157,nba,2021,158,Mohamed Bamba,ORL,C,6.73%
+158,nba,2021,159,Ivica Zubac,LAC,C,6.69%
+159,nba,2021,160,T.J. McConnell,IND,PG,6.67%
+160,nba,2021,161,Patrick Williams,CHI,PF,6.60%
+161,nba,2021,162,Scottie Barnes,TOR,PF,6.48%
+162,nba,2021,163,Darius Garland,CLE,PG,6.26%
+163,nba,2021,164,Chris Boucher,TOR,PF,6.24%
+164,nba,2021,165,Zach Collins,SAS,C,6.23%
+165,nba,2021,,P.J. Tucker,MIA,PF,6.23%
+166,nba,2021,167,Wendell Carter Jr.,ORL,C,6.16%
+167,nba,2021,168,Juancho Hernangomez,UTA,PF,6.05%
+168,nba,2021,169,Isaac Okoro,CLE,SG,5.98%
+169,nba,2021,170,Jalen Suggs,ORL,SG,5.86%
+170,nba,2021,171,Cameron Payne,PHX,PG,5.78%
+171,nba,2021,172,Jarrett Culver,MEM,SG,5.69%
+172,nba,2021,173,Khem Birch,TOR,C,5.65%
+173,nba,2021,174,Collin Sexton,CLE,PG,5.65%
+174,nba,2021,175,Onyeka Okongwu,ATL,C,5.43%
+175,nba,2021,176,Justin Holiday,SAC,SG,5.34%
+176,nba,2021,177,Josh Giddey,OKC,SG,5.33%
+177,nba,2021,178,Rudy Gay,UTA,PF,5.24%
+178,nba,2021,,Patty Mills,BKN,PG,5.24%
+179,nba,2021,,Dennis Schröder,HOU,PG,5.24%
+180,nba,2021,181,Kevin Knox,ATL,SF,5.20%
+181,nba,2021,182,Coby White,CHI,PG,5.19%
+182,nba,2021,183,Killian Hayes,DET,PG,4.96%
+183,nba,2021,184,Mikal Bridges,PHX,SF,4.94%
+184,nba,2021,185,Shai Gilgeous-Alexander,OKC,PG,4.89%
+185,nba,2021,186,Jonathan Kuminga,GSW,PF,4.86%
+186,nba,2021,187,Miles Bridges,CHA,SF,4.82%
+187,nba,2021,188,Jaxson Hayes,NOP,C,4.76%
+188,nba,2021,189,Pat Connaughton,MIL,SG,4.74%
+189,nba,2021,190,Michael Porter Jr.,DEN,SF,4.68%
+190,nba,2021,191,Hamidou Diallo,DET,SG,4.63%
+191,nba,2021,192,Kevon Looney,GSW,C,4.61%
+192,nba,2021,193,Troy Brown Jr.,CHI,SF,4.60%
+193,nba,2021,194,Obi Toppin,NYK,PF,4.54%
+194,nba,2021,195,Franz Wagner,ORL,SF,4.45%
+195,nba,2021,196,Josh Jackson,SAC,SG,4.45%
+196,nba,2021,197,Robin Lopez,ORL,C,4.45%
+197,nba,2021,,JaVale McGee,PHX,C,4.45%
+198,nba,2021,,Kendrick Nunn,LAL,PG,4.45%
+199,nba,2021,,Louis Williams,ATL,SG,4.45%
+200,nba,2021,201,Rui Hachimura,WAS,PF,4.37%
+201,nba,2021,202,Taj Gibson,NYK,C,4.37%
+202,nba,2021,,Cory Joseph,DET,PG,4.37%
+203,nba,2021,,Garrett Temple,NOP,SG,4.37%
+204,nba,2021,205,Torrey Craig,PHX,SF,4.34%
+205,nba,2021,206,Bruce Brown Jr.,BKN,SG,4.21%
+206,nba,2021,207,Deni Avdija,WAS,SF,4.17%
+207,nba,2021,208,Donte DiVincenzo,SAC,SG,4.16%
+208,nba,2021,209,Cam Reddish,NYK,SF,4.15%
+209,nba,2021,210,David Nwaba,HOU,SG,4.14%
+210,nba,2021,211,Furkan Korkmaz,PHI,SG,4.12%
+211,nba,2021,212,Davion Mitchell,SAC,PG,4.09%
+212,nba,2021,213,Bryn Forbes,DEN,SG,4.00%
+213,nba,2021,,Jeff Green,DEN,PF,4.00%
+214,nba,2021,,Ishmael Smith,WAS,PG,4.00%
+215,nba,2021,216,Jalen Smith,IND,PF,3.97%
+216,nba,2021,217,Lonnie Walker IV,SAS,SG,3.96%
+217,nba,2021,218,Cameron Johnson,PHX,SF,3.95%
+218,nba,2021,219,Ziaire Williams,MEM,SF,3.89%
+219,nba,2021,220,Maurice Harkless,SAC,SF,3.87%
+220,nba,2021,,Bobby Portis,MIL,PF,3.87%
+221,nba,2021,222,Kevin Huerter,ATL,SG,3.78%
+222,nba,2021,223,Devin Vassell,SAS,SG,3.77%
+223,nba,2021,224,PJ Washington,CHA,PF,3.75%
+224,nba,2021,225,James Bouknight,CHA,SG,3.70%
+225,nba,2021,226,Josh Okogie,MIN,SG,3.64%
+226,nba,2021,227,Grayson Allen,MIL,SG,3.61%
+227,nba,2021,228,Jarred Vanderbilt,MIN,PF,3.60%
+228,nba,2021,229,Tyrese Haliburton,IND,PG,3.58%
+229,nba,2021,230,Tyler Herro,MIA,SG,3.56%
+230,nba,2021,231,Terence Davis,SAC,SG,3.56%
+231,nba,2021,,Gorgui Dieng,ATL,C,3.56%
+232,nba,2021,,Dorian Finney-Smith,DAL,SF,3.56%
+233,nba,2021,,George Hill,MIL,PG,3.56%
+234,nba,2021,235,Aaron Holiday,PHX,PG,3.54%
+235,nba,2021,236,Joshua Primo,SAS,SG,3.51%
+236,nba,2021,237,Jake Layman,MIN,SF,3.51%
+237,nba,2021,238,Anfernee Simons,POR,SG,3.50%
+238,nba,2021,239,Justise Winslow,POR,PF,3.47%
+239,nba,2021,240,Kira Lewis Jr.,NOP,PG,3.40%
+240,nba,2021,241,Romeo Langford,SAS,SG,3.38%
+241,nba,2021,242,Landry Shamet,PHX,SG,3.35%
+242,nba,2021,243,Chris Duarte,IND,SG,3.34%
+243,nba,2021,244,Alex Len,SAC,C,3.32%
+244,nba,2021,245,Robert Williams III,BOS,C,3.26%
+245,nba,2021,246,Aaron Nesmith,BOS,SF,3.23%
+246,nba,2021,247,Moses Moody,GSW,SG,3.17%
+247,nba,2021,248,Boban Marjanovic,DAL,C,3.11%
+248,nba,2021,,Mike Muscala,OKC,C,3.11%
+249,nba,2021,250,Cole Anthony,ORL,PG,3.07%
+250,nba,2021,251,Corey Kispert,WAS,SF,3.01%
+251,nba,2021,252,Georges Niang,PHI,PF,2.94%
+252,nba,2021,253,Chuma Okeke,ORL,PF,2.92%
+253,nba,2021,,Isaiah Stewart,DET,C,2.92%
+254,nba,2021,255,Nickeil Alexander-Walker,UTA,SG,2.90%
+255,nba,2021,256,Alperen Sengun,HOU,C,2.86%
+256,nba,2021,257,Nicolas Batum,LAC,SF,2.82%
+257,nba,2021,258,Trey Burke,DAL,PG,2.80%
+258,nba,2021,259,Aleksej Pokusevski,OKC,PF,2.77%
+259,nba,2021,260,Facundo Campazzo,DEN,PG,2.76%
+260,nba,2021,261,Goga Bitadze,IND,C,2.76%
+261,nba,2021,262,Trey Murphy III,NOP,SF,2.72%
+262,nba,2021,263,Sterling Brown,DAL,SG,2.67%
+263,nba,2021,,Frank Jackson,DET,PG,2.67%
+264,nba,2021,265,Josh Green,DAL,SG,2.63%
+265,nba,2021,266,Tre Mann,OKC,PG,2.58%
+266,nba,2021,267,Matisse Thybulle,PHI,SG,2.53%
+267,nba,2021,268,Saddiq Bey,DET,SF,2.51%
+268,nba,2021,269,Kai Jones,CHA,PF,2.46%
+269,nba,2021,270,Brandon Clarke,MEM,PF,2.43%
+270,nba,2021,271,Precious Achiuwa,TOR,PF,2.41%
+271,nba,2021,272,Jalen Johnson,ATL,SF,2.37%
+272,nba,2021,273,Grant Williams,BOS,PF,2.33%
+273,nba,2021,274,Tyrese Maxey,PHI,PG,2.32%
+274,nba,2021,275,Keon Johnson,POR,SG,2.27%
+275,nba,2021,276,Darius Bazley,OKC,PF,2.24%
+276,nba,2021,277,Trey Lyles,SAC,PF,2.22%
+277,nba,2021,278,Zeke Nnaji,DEN,PF,2.22%
+278,nba,2021,279,Isaiah Jackson,IND,PF,2.18%
+279,nba,2021,280,Ty Jerome,OKC,SG,2.15%
+280,nba,2021,281,Leandro Bolmaro,MIN,SG,2.09%
+281,nba,2021,,Usman Garuba,HOU,PF,2.09%
+282,nba,2021,283,Willy Hernangomez,NOP,C,2.07%
+283,nba,2021,284,Nassir Little,POR,SF,2.06%
+284,nba,2021,285,RJ Hampton,ORL,PG,2.05%
+285,nba,2021,286,Josh Christopher,HOU,SG,2.01%
+286,nba,2021,287,Dylan Windler,CLE,SF,1.99%
+287,nba,2021,288,Immanuel Quickley,NYK,PG,1.97%
+288,nba,2021,289,John Konchar,MEM,SG,1.96%
+289,nba,2021,290,Quentin Grimes,NYK,SG,1.93%
+290,nba,2021,291,Jordan Poole,GSW,SG,1.92%
+291,nba,2021,292,Bol Bol,ORL,PF,1.92%
+292,nba,2021,293,Keldon Johnson,SAS,SF,1.91%
+293,nba,2021,294,Payton Pritchard,BOS,PG,1.90%
+294,nba,2021,295,Nah'Shon Hyland,DEN,PG,1.87%
+295,nba,2021,296,Udoka Azubuike,UTA,C,1.85%
+296,nba,2021,297,Jaden McDaniels,MIN,PF,1.84%
+297,nba,2021,298,Malachi Flynn,TOR,PG,1.82%
+298,nba,2021,299,Cameron Thomas,BKN,SG,1.81%
+299,nba,2021,300,Desmond Bane,MEM,SG,1.81%
+300,nba,2021,301,Jaden Springer,PHI,PG,1.80%
+301,nba,2021,302,Day'Ron Sharpe,BKN,C,1.79%
+302,nba,2021,303,Theo Maledon,OKC,PG,1.78%
+303,nba,2021,,Garrison Mathews,HOU,SG,1.78%
+304,nba,2021,,Jordan McLaughlin,MIN,PG,1.78%
+305,nba,2021,,Jeremiah Robinson-Earl,OKC,PF,1.78%
+306,nba,2021,,Kenrich Williams,OKC,SF,1.78%
+307,nba,2021,308,Santi Aldama,MEM,C,1.77%
+308,nba,2021,309,Damian Jones,SAC,C,1.76%
+309,nba,2021,310,Damion Lee,GSW,SG,1.70%
+310,nba,2021,311,Killian Tillie,MEM,PF,1.69%
+311,nba,2021,312,Shake Milton,PHI,SG,1.64%
+312,nba,2021,313,Jalen Brunson,DAL,PG,1.60%
+313,nba,2021,,Mitchell Robinson,NYK,C,1.60%
+314,nba,2021,315,Tony Bradley,CHI,C,1.59%
+315,nba,2021,,Frank Ntilikina,DAL,PG,1.59%
+316,nba,2021,317,Didi Louzada,POR,SF,1.59%
+317,nba,2021,318,Vlatko Cancar,DEN,PF,1.59%
+318,nba,2021,,Nicolas Claxton,BKN,C,1.59%
+319,nba,2021,,Luguentz Dort,OKC,SG,1.59%
+320,nba,2021,,Bruno Fernando,HOU,C,1.59%
+321,nba,2021,,Daniel Gafford,WAS,C,1.59%
+322,nba,2021,,Terance Mann,LAC,SG,1.59%
+323,nba,2021,,Cody Martin,CHA,SF,1.59%
+324,nba,2021,,Jalen McDaniels,CHA,SF,1.59%
+325,nba,2021,,Jaylen Nowell,MIN,SG,1.59%
+326,nba,2021,,Eric Paschall,UTA,PF,1.59%
+327,nba,2021,,Kevin Porter Jr.,HOU,PG,1.59%
+328,nba,2021,,Naz Reid,MIN,C,1.59%
+329,nba,2021,,Isaiah Roby,OKC,PF,1.59%
+330,nba,2021,,Dean Wade,CLE,PF,1.59%
+331,nba,2021,332,Chimezie Metu,SAC,C,1.57%
+332,nba,2021,,Yuta Watanabe,TOR,SF,1.57%
+333,nba,2021,334,Thanasis Antetokounmpo,MIL,SF,1.54%
+334,nba,2021,,Keita Bates-Diop,SAS,SF,1.54%
+335,nba,2021,,Sviatoslav Mykhailiuk,TOR,SF,1.54%
+336,nba,2021,,Moritz Wagner,ORL,C,1.54%
+337,nba,2021,338,Oshae Brissett,IND,SF,1.51%
+338,nba,2021,,Juan Toscano-Anderson,GSW,SF,1.51%
+339,nba,2021,340,Herb Jones,NOP,SF,1.51%
+340,nba,2021,341,LaMarcus Aldridge,BKN,PF,1.48%
+341,nba,2021,,Carmelo Anthony,LAL,PF,1.48%
+342,nba,2021,,Kent Bazemore,LAL,SG,1.48%
+343,nba,2021,,Nemanja Bjelica,GSW,PF,1.48%
+344,nba,2021,,Isaac Bonga,TOR,SF,1.48%
+345,nba,2021,,Avery Bradley,LAL,PG,1.48%
+346,nba,2021,,Ed Davis,CLE,C,1.48%
+347,nba,2021,,Dewayne Dedmon,MIA,C,1.48%
+348,nba,2021,,Andre Drummond,BKN,C,1.48%
+349,nba,2021,,Wayne Ellington,LAL,SG,1.48%
+350,nba,2021,,Javonte Green,CHI,SG,1.48%
+351,nba,2021,,Blake Griffin,BKN,C,1.48%
+352,nba,2021,,Isaiah Hartenstein,LAC,C,1.48%
+353,nba,2021,,Udonis Haslem,MIA,PF,1.48%
+354,nba,2021,,Rodney Hood,LAC,SF,1.48%
+355,nba,2021,,Dwight Howard,LAL,C,1.48%
+356,nba,2021,,Andre Iguodala,GSW,SF,1.48%
+357,nba,2021,,Timothe Luwawu-Cabarrot,ATL,SG,1.48%
+358,nba,2021,,Rodney McGruder,DET,SG,1.48%
+359,nba,2021,,Ben McLemore,POR,SF,1.48%
+360,nba,2021,,Paul Millsap,PHI,PF,1.48%
+361,nba,2021,,Malik Monk,LAL,SG,1.48%
+362,nba,2021,,Markieff Morris,MIA,PF,1.48%
+363,nba,2021,,Raul Neto,WAS,PG,1.48%
+364,nba,2021,,Victor Oladipo,MIA,SG,1.48%
+365,nba,2021,,Elfrid Payton,PHX,PG,1.48%
+366,nba,2021,,Gary Payton II,GSW,PG,1.48%
+367,nba,2021,,Otto Porter Jr.,GSW,SF,1.48%
+368,nba,2021,,Austin Rivers,DEN,SG,1.48%
+369,nba,2021,,Rajon Rondo,CLE,PG,1.48%
+370,nba,2021,,Tony Snell,NOP,SG,1.48%
+371,nba,2021,,Max Strus,MIA,SG,1.48%
+372,nba,2021,,Matt Thomas,CHI,SG,1.48%
+373,nba,2021,,Gabe Vincent,MIA,PG,1.48%
+374,nba,2021,375,Vernon Carey Jr.,WAS,C,1.35%
+375,nba,2021,,CJ Elleby,POR,SF,1.35%
+376,nba,2021,,Anthony Gill,WAS,PF,1.35%
+377,nba,2021,,Elijah Hughes,POR,SF,1.35%
+378,nba,2021,,Isaiah Joe,PHI,SG,1.35%
+379,nba,2021,,Tre Jones,SAS,PG,1.35%
+380,nba,2021,,Naji Marshall,NOP,SF,1.35%
+381,nba,2021,,Kenyon Martin Jr.,HOU,SF,1.35%
+382,nba,2021,,Jordan Nwora,MIL,SF,1.35%
+383,nba,2021,,Paul Reed,PHI,C,1.35%
+384,nba,2021,,Nick Richards,CHA,C,1.35%
+385,nba,2021,,Lamar Stevens,CLE,SF,1.35%
+386,nba,2021,,Jae’Sean Tate,HOU,SF,1.35%
+387,nba,2021,,Xavier Tillman,MEM,PF,1.35%
+388,nba,2021,389,Jose Alvarado,NOP,PG,1.33%
+389,nba,2021,,Isaiah Todd,WAS,PF,1.33%
+390,nba,2021,391,Saben Lee,DET,PG,1.32%
+391,nba,2021,,Omer Yurtseven,MIA,C,1.32%
+392,nba,2021,393,JT Thor,CHA,PF,1.11%
+393,nba,2021,394,Wesley Matthews,MIL,SG,1.10%
+394,nba,2021,395,Jason Preston,LAC,PG,0.95%
+395,nba,2021,396,Isaiah Livers,DET,SF,0.94%
+396,nba,2021,397,Tristan Thompson,CHI,C,0.89%
+397,nba,2021,,Aaron Wiggins,OKC,SG,0.89%
+398,nba,2021,399,Marquese Chriss,DAL,SF,0.85%
+399,nba,2021,400,Duane Washington Jr.,IND,PG,0.85%
+400,nba,2021,401,Dalano Banton,TOR,PG,0.82%
+401,nba,2021,,Charles Bassey,PHI,C,0.82%
+402,nba,2021,,Brandon Boston Jr,LAC,SG,0.82%
+403,nba,2021,,Greg Brown III,POR,PF,0.82%
+404,nba,2021,,Jared Butler,UTA,PG,0.82%
+405,nba,2021,,Ayo Dosunmu,CHI,PG,0.82%
+406,nba,2021,,Luka Garza,DET,C,0.82%
+407,nba,2021,,Vit Krejci,OKC,PG,0.82%
+408,nba,2021,,Jock Landale,SAS,C,0.82%
+409,nba,2021,,Miles McBride,NYK,PG,0.82%
+410,nba,2021,,Austin Reaves,LAL,SG,0.82%
+411,nba,2021,,Marko Simonovic,CHI,C,0.82%
+412,nba,2021,413,Stanley Johnson,LAL,SF,0.79%
+413,nba,2021,414,Bismack Biyombo,PHX,C,0.77%
+414,nba,2021,415,Lance Stephenson,IND,SG,0.57%
+415,nba,2021,416,Daishen Nix,HOU,PG,0.54%
+416,nba,2021,417,Terry Taylor,IND,SF,0.53%
+417,nba,2021,418,Danuel House Jr.,UTA,SF,0.50%
+418,nba,2021,,Luke Kornet,BOS,C,0.50%
+419,nba,2021,420,Ryan Arcidiacono,NYK,PG,0.49%
+420,nba,2021,421,Caleb Martin,MIA,SF,0.47%
+421,nba,2021,422,Goran Dragic,BKN,PG,0.41%
+422,nba,2021,423,Jevon Carter,MIL,PG,0.39%
+423,nba,2021,424,Trendon Watford,POR,SF,0.39%
+424,nba,2021,425,DeMarcus Cousins,DEN,C,0.38%
+425,nba,2021,426,Nik Stauskas,BOS,SG,0.38%
+426,nba,2021,427,Tomas Satoransky,WAS,SG,0.36%
+427,nba,2021,428,D.J. Augustin,LAL,PG,0.35%
+428,nba,2021,429,DeAndre Jordan,PHI,C,0.33%
+429,nba,2021,430,Devontae Cacok,SAS,C,0.32%
+430,nba,2021,431,Sam Hauser,BOS,SF,0.28%
+431,nba,2021,432,Haywood Highsmith,MIA,F,0.26%
+432,nba,2021,433,Armoni Brooks,TOR,SG,0.22%
+433,nba,2021,434,Malik Fitts,BOS,PF,0.21%
+434,nba,2021,435,Joe Wieskamp,SAS,SF,0.18%
+435,nba,2021,436,Isaiah Thomas,CHA,PG,0.17%
+436,nba,2021,437,Amir Coffey,LAC,SG,0.14%
+437,nba,2021,438,Devin Cannady,ORL,PG,0.09%
+438,nba,2021,439,Carsen Edwards,DET,PG,0.07%
+439,nba,2021,440,Luca Vildoza,MIL,PG,0.04%
+440,nba,2021,441,Greg Monroe,MIN,C,0.03%
+441,nba,2021,442,Skylar Mays,ATL,SG,0.03%
+442,nba,2021,443,Wenyen Gabriel,LAL,PF,0.03%
+443,nba,2021,,Rayjon Tucker,MIL,SF,0.03%
+444,nba,2021,445,Moses Brown,CLE,C,0.02%
+445,nba,2021,,Juwan Morgan,BOS,SF,0.02%
+446,nba,2021,447,Trent Forrest,UTA,PG,0.01%
+447,nba,2021,,Ishmail Wainright,PHX,SF,0.01%
+448,nba,2021,449,Kessler Edwards,BKN,SF,0.00%
+449,nba,2021,1,G,,,48
+450,nba,2021,2,F,,,37
+451,nba,2021,3,C,,,15
+452,nba,2021,1,LAC,,,6
+453,nba,2021,2,BOS,,,5
+454,nba,2021,3,MIN,,,5
+455,nba,2021,4,TOR,,,5
+456,nba,2021,5,BKN,,,4
+457,nba,2021,6,ATL,,,4
+458,nba,2021,7,CHI,,,4
+459,nba,2021,8,CLE,,,4
+460,nba,2021,9,DEN,,,4
+461,nba,2021,10,GSW,,,4
+462,nba,2021,11,IND,,,4
+463,nba,2021,12,MIA,,,4
+464,nba,2021,13,MIL,,,4
+465,nba,2021,14,WAS,,,4
+466,nba,2021,15,UTA,,,4
+467,nba,2021,16,DAL,,,3
+468,nba,2021,17,HOU,,,3
+469,nba,2021,18,LAL,,,3
+470,nba,2021,19,NOP,,,3
+471,nba,2021,20,NYK,,,3
+472,nba,2021,21,PHI,,,3
+473,nba,2021,22,POR,,,3
+474,nba,2021,23,SAC,,,3
+475,nba,2021,24,ORL,,,3
+476,nba,2021,25,CHA,,,2
+477,nba,2021,26,PHX,,,2
+478,nba,2021,27,SAS,,,2
+479,nba,2021,28,DET,,,1
+480,nba,2021,29,MEM,,,1
+481,nba,2021,1,G,,,48
+482,nba,2021,2,F,,,37
+483,nba,2021,3,C,,,15
+484,nba,2021,1,LAC,,,6
+485,nba,2021,2,BOS,,,5
+486,nba,2021,3,MIN,,,5
+487,nba,2021,4,TOR,,,5
+488,nba,2021,5,BKN,,,4
+489,nba,2021,6,ATL,,,4
+490,nba,2021,7,CHI,,,4
+491,nba,2021,8,CLE,,,4
+492,nba,2021,9,DEN,,,4
+493,nba,2021,10,GSW,,,4
+494,nba,2021,11,IND,,,4
+495,nba,2021,12,MIA,,,4
+496,nba,2021,13,MIL,,,4
+497,nba,2021,14,WAS,,,4
+498,nba,2021,15,UTA,,,4
+499,nba,2021,16,DAL,,,3
+500,nba,2021,17,HOU,,,3
+501,nba,2021,18,LAL,,,3
+502,nba,2021,19,NOP,,,3
+503,nba,2021,20,NYK,,,3
+504,nba,2021,21,PHI,,,3
+505,nba,2021,22,POR,,,3
+506,nba,2021,23,SAC,,,3
+507,nba,2021,24,ORL,,,3
+508,nba,2021,25,CHA,,,2
+509,nba,2021,26,PHX,,,2
+510,nba,2021,27,SAS,,,2
+511,nba,2021,28,DET,,,1
+512,nba,2021,29,MEM,,,1

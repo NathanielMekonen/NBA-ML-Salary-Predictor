@@ -1,0 +1,499 @@
+,league,season,rank,player,team,position,salary
+0,nba,2011,1,Kobe Bryant,LAL,SF,43.49%
+1,nba,2011,2,Kevin Garnett,BOS,PF,36.61%
+2,nba,2011,3,Tim Duncan,SAS,PF,36.46%
+3,nba,2011,4,Rashard Lewis,WAS,PF,36.41%
+4,nba,2011,5,Dirk Nowitzki,DAL,PF,32.89%
+5,nba,2011,6,Pau Gasol,LAL,PF,32.24%
+6,nba,2011,7,Carmelo Anthony,NYK,SF,31.90%
+7,nba,2011,8,Amar'e Stoudemire,NYK,PF,31.39%
+8,nba,2011,9,Dwight Howard,ORL,C,31.17%
+9,nba,2011,10,Joe Johnson,ATL,SG,31.08%
+10,nba,2011,11,Elton Brand,PHI,PF,29.39%
+11,nba,2011,12,Chris Paul,LAC,PG,28.19%
+12,nba,2011,,Deron Williams,NJN,PG,28.19%
+13,nba,2011,14,Chris Bosh,MIA,PF,27.60%
+14,nba,2011,,LeBron James,MIA,SF,27.60%
+15,nba,2011,16,Dwyane Wade,MIA,SG,26.72%
+16,nba,2011,17,Kevin Durant,OKC,SF,26.72%
+17,nba,2011,18,Paul Pierce,BOS,SF,26.42%
+18,nba,2011,19,Zach Randolph,MEM,PF,26.19%
+19,nba,2011,20,Antawn Jamison,CLE,PF,25.97%
+20,nba,2011,21,Andrew Bynum,LAL,C,25.67%
+21,nba,2011,22,Al Jefferson,UTA,C,24.12%
+22,nba,2011,23,Andre Iguodala,PHI,SF,23.31%
+23,nba,2011,24,Carlos Boozer,CHI,PF,23.26%
+24,nba,2011,25,Tyson Chandler,NYK,C,22.58%
+25,nba,2011,26,Nene Hilario,WAS,C,22.40%
+26,nba,2011,27,Manu Ginobili,SAS,SG,22.36%
+27,nba,2011,28,Marc Gasol,MEM,C,22.26%
+28,nba,2011,29,Emeka Okafor,NOH,C,21.78%
+29,nba,2011,30,Tony Parker,SAS,PG,21.54%
+30,nba,2011,31,Josh Smith,ATL,SF,21.36%
+31,nba,2011,32,LaMarcus Aldridge,POR,PF,21.31%
+32,nba,2011,33,Luol Deng,CHI,SF,21.23%
+33,nba,2011,34,Rudy Gay,MEM,SF,20.84%
+34,nba,2011,35,Danny Granger,IND,SF,20.70%
+35,nba,2011,36,Andrew Bogut,MIL,C,20.67%
+36,nba,2011,,Al Horford,ATL,C,20.67%
+37,nba,2011,,Joakim Noah,CHI,C,20.67%
+38,nba,2011,39,Steve Nash,PHX,PG,20.14%
+39,nba,2011,40,David Lee,GSW,PF,20.00%
+40,nba,2011,41,Ben Gordon,DET,SG,19.98%
+41,nba,2011,42,Kevin Martin,HOU,SG,19.85%
+42,nba,2011,43,Jason Terry,DAL,SG,19.70%
+43,nba,2011,44,Chris Kaman,NOH,C,19.46%
+44,nba,2011,45,Marcus Camby,POR,C,19.07%
+45,nba,2011,46,Hedo Turkoglu,ORL,SF,18.98%
+46,nba,2011,47,Monta Ellis,GSW,SG,18.95%
+47,nba,2011,48,Corey Maggette,CHA,SF,17.68%
+48,nba,2011,49,Jason Kidd,DAL,PG,17.44%
+49,nba,2011,50,DeAndre Jordan,LAC,C,17.37%
+50,nba,2011,51,Rajon Rondo,BOS,PG,17.31%
+51,nba,2011,52,Ray Allen,BOS,SG,17.23%
+52,nba,2011,,David West,IND,PF,17.23%
+53,nba,2011,54,Jose Calderon,TOR,PG,16.85%
+54,nba,2011,55,Gerald Wallace,CHA,SF,16.37%
+55,nba,2011,56,Devin Harris,UTA,PG,16.06%
+56,nba,2011,57,Richard Jefferson,SAS,SF,15.99%
+57,nba,2011,58,Andrea Bargnani,TOR,C,15.94%
+58,nba,2011,59,Andris Biedrins,GSW,C,15.51%
+59,nba,2011,,Carl Landry,NOH,PF,15.51%
+60,nba,2011,61,Lamar Odom,DAL,PF,15.33%
+61,nba,2011,62,Jameer Nelson,ORL,PG,14.82%
+62,nba,2011,63,Luis Scola,HOU,PF,14.80%
+63,nba,2011,64,John Salmons,MIL,SF,14.64%
+64,nba,2011,,Rodney Stuckey,DET,PG,14.64%
+65,nba,2011,,Mo Williams,LAC,PG,14.64%
+66,nba,2011,67,Paul Millsap,UTA,PF,13.96%
+67,nba,2011,68,Shawn Marion,DAL,SF,13.82%
+68,nba,2011,69,Caron Butler,LAC,SF,13.78%
+69,nba,2011,,Kirk Hinrich,ATL,SG,13.78%
+70,nba,2011,,Kris Humphries,NJN,PF,13.78%
+71,nba,2011,72,Andre Miller,DEN,PG,13.45%
+72,nba,2011,73,Arron Afflalo,DEN,SG,13.35%
+73,nba,2011,74,Anderson Varejao,CLE,PF,13.27%
+74,nba,2011,75,Brendan Haywood,DAL,C,13.14%
+75,nba,2011,76,Leandro Barbosa,TOR,SG,13.09%
+76,nba,2011,77,Raymond Felton,POR,PG,13.02%
+77,nba,2011,78,Charlie Villanueva,DET,PF,12.99%
+78,nba,2011,79,Marvin Williams,ATL,PF,12.92%
+79,nba,2011,80,Thaddeus Young,PHI,PF,12.88%
+80,nba,2011,81,Stephen Jackson,GSW,SF,12.84%
+81,nba,2011,82,Tyrus Thomas,CHA,PF,12.59%
+82,nba,2011,83,Kendrick Perkins,OKC,C,12.27%
+83,nba,2011,84,Samuel Dalembert,HOU,C,12.06%
+84,nba,2011,,Marcus Thornton,SAC,SG,12.06%
+85,nba,2011,86,DeSagana Diop,CHA,C,11.93%
+86,nba,2011,,Beno Udrih,MIL,PG,11.93%
+87,nba,2011,88,Trevor Ariza,WAS,SF,11.70%
+88,nba,2011,,Marcin Gortat,PHX,C,11.70%
+89,nba,2011,,Metta World Peace,LAL,SF,11.70%
+90,nba,2011,91,Kwame Brown,MIL,C,11.63%
+91,nba,2011,,J.J. Redick,ORL,SG,11.63%
+92,nba,2011,93,Mike Conley,MEM,PG,11.39%
+93,nba,2011,94,Grant Hill,PHX,SF,11.20%
+94,nba,2011,95,Andray Blatche,WAS,C,11.10%
+95,nba,2011,96,Glen Davis,ORL,PF,10.85%
+96,nba,2011,97,Tayshaun Prince,DET,SF,10.84%
+97,nba,2011,98,Drew Gooden,MIL,PF,10.73%
+98,nba,2011,,Al Harrington,DEN,PF,10.73%
+99,nba,2011,100,Jermaine O'Neal,BOS,C,10.73%
+100,nba,2011,101,Josh Childress,PHX,SF,10.34%
+101,nba,2011,102,Francisco Garcia,SAC,SG,9.99%
+102,nba,2011,103,Kyle Lowry,HOU,PG,9.91%
+103,nba,2011,104,Blake Griffin,LAC,PF,9.87%
+104,nba,2011,105,Luke Walton,CLE,SF,9.79%
+105,nba,2011,106,O.J. Mayo,MEM,SG,9.70%
+106,nba,2011,107,Derrick Rose,CHI,PG,9.70%
+107,nba,2011,108,Channing Frye,PHX,PF,9.65%
+108,nba,2011,109,John Wall,WAS,PG,9.53%
+109,nba,2011,110,Wilson Chandler,DEN,SF,9.50%
+110,nba,2011,111,Amir Johnson,TOR,PF,9.48%
+111,nba,2011,112,Mike Miller,MIA,SG,9.30%
+112,nba,2011,113,Jason Richardson,ORL,SG,9.29%
+113,nba,2011,114,Martell Webster,MIN,SF,9.07%
+114,nba,2011,115,Louis Williams,PHI,SG,8.92%
+115,nba,2011,116,Kyrie Irving,CLE,PG,8.86%
+116,nba,2011,117,Russell Westbrook,OKC,PG,8.76%
+117,nba,2011,118,Michael Beasley,MIN,SF,8.68%
+118,nba,2011,119,Jamal Crawford,POR,SG,8.61%
+119,nba,2011,,Kyle Korver,CHI,SG,8.61%
+120,nba,2011,,Jason Maxiell,DET,PF,8.61%
+121,nba,2011,,Luc Richard Mbah a Moute,MIL,PF,8.61%
+122,nba,2011,123,Evan Turner,PHI,SF,8.52%
+123,nba,2011,124,Wesley Matthews,POR,SG,8.51%
+124,nba,2011,125,Darko Milicic,MIN,PF,8.23%
+125,nba,2011,126,Brad Miller,MIN,C,8.19%
+126,nba,2011,127,Zaza Pachulia,ATL,C,8.18%
+127,nba,2011,128,Ronnie Brewer,CHI,SF,8.11%
+128,nba,2011,129,Kevin Love,MIN,C,7.94%
+129,nba,2011,130,Linas Kleiza,TOR,SF,7.93%
+130,nba,2011,131,James Harden,OKC,SG,7.93%
+131,nba,2011,132,Derrick Williams,MIN,PF,7.93%
+132,nba,2011,133,Nikola Pekovic,MIN,C,7.76%
+133,nba,2011,134,Jonas Jerebko,DET,PF,7.75%
+134,nba,2011,135,Derrick Favors,UTA,PF,7.66%
+135,nba,2011,136,Daniel Gibson,CLE,SG,7.59%
+136,nba,2011,137,Jose Barea,MIN,PG,7.41%
+137,nba,2011,138,Ramon Sessions,LAL,PG,7.34%
+138,nba,2011,139,Jared Dudley,PHX,SF,7.32%
+139,nba,2011,,Randy Foye,LAC,SG,7.32%
+140,nba,2011,141,Chris Andersen,DEN,PF,7.29%
+141,nba,2011,142,Chuck Hayes,SAC,PF,7.28%
+142,nba,2011,143,Danilo Gallinari,DEN,SF,7.22%
+143,nba,2011,144,Tyreke Evans,SAC,SG,7.15%
+144,nba,2011,145,Enes Freedom,UTA,C,7.12%
+145,nba,2011,146,Jarrett Jack,NOH,PG,7.11%
+146,nba,2011,147,Spencer Hawes,PHI,PF,6.98%
+147,nba,2011,148,Richard Hamilton,CHI,SG,6.93%
+148,nba,2011,149,Wesley Johnson,MIN,SF,6.90%
+149,nba,2011,150,Steve Blake,LAL,PG,6.89%
+150,nba,2011,,Mario Chalmers,MIA,PG,6.89%
+151,nba,2011,,Jordan Farmar,NJN,PG,6.89%
+152,nba,2011,,Ryan Gomes,LAC,SF,6.89%
+153,nba,2011,,Anthony Morrow,NJN,SG,6.89%
+154,nba,2011,,Travis Outlaw,NJN,SF,6.89%
+155,nba,2011,,Hakim Warrick,PHX,PF,6.89%
+156,nba,2011,157,Matt Carroll,CHA,SG,6.72%
+157,nba,2011,158,Eric Gordon,NOH,SG,6.60%
+158,nba,2011,159,Dorell Wright,GSW,SF,6.59%
+159,nba,2011,160,Udonis Haslem,MIA,PF,6.51%
+160,nba,2011,161,Mike Dunleavy,MIL,SF,6.46%
+161,nba,2011,,Nazr Mohammed,OKC,C,6.46%
+162,nba,2011,163,Tristan Thompson,CLE,C,6.42%
+163,nba,2011,164,C.J. Miles,UTA,SF,6.37%
+164,nba,2011,165,Nick Young,WAS,SG,6.37%
+165,nba,2011,166,Luke Ridnour,MIN,PG,6.34%
+166,nba,2011,167,Tiago Splitter,SAS,PF,6.33%
+167,nba,2011,168,DeMarcus Cousins,SAC,C,6.25%
+168,nba,2011,169,Joel Anthony,MIA,C,6.20%
+169,nba,2011,170,Shannon Brown,PHX,PG,6.03%
+170,nba,2011,,Carlos Delfino,MIL,SG,6.03%
+171,nba,2011,,Chris Duhon,ORL,PG,6.03%
+172,nba,2011,,Shaun Livingston,MIL,PG,6.03%
+173,nba,2011,174,Ricky Rubio,MIN,PG,6.00%
+174,nba,2011,175,Brandon Bass,BOS,PF,5.89%
+175,nba,2011,176,C.J. Watson,CHI,PG,5.86%
+176,nba,2011,177,Marco Belinelli,NOH,SG,5.82%
+177,nba,2011,178,Timofey Mozgov,DEN,C,5.76%
+178,nba,2011,179,Daequan Cook,OKC,SG,5.76%
+179,nba,2011,180,Matt Bonner,SAS,C,5.71%
+180,nba,2011,181,Thabo Sefolosha,OKC,SF,5.69%
+181,nba,2011,182,Nick Collison,OKC,PF,5.64%
+182,nba,2011,183,Will Bynum,DET,PG,5.60%
+183,nba,2011,,Johan Petro,NJN,C,5.60%
+184,nba,2011,185,Raja Bell,UTA,SG,5.58%
+185,nba,2011,186,D.J. Augustin,CHA,PG,5.58%
+186,nba,2011,187,Tony Allen,MEM,SG,5.43%
+187,nba,2011,188,Stephen Curry,GSW,PG,5.37%
+188,nba,2011,189,Brook Lopez,NJN,C,5.30%
+189,nba,2011,190,Jan Vesely,WAS,SF,5.28%
+190,nba,2011,191,Corey Brewer,DEN,SG,5.27%
+191,nba,2011,192,Jerryd Bayless,TOR,PG,5.24%
+192,nba,2011,193,Greg Monroe,DET,C,5.18%
+193,nba,2011,194,Jason Thompson,SAC,PF,5.17%
+194,nba,2011,195,Shane Battier,MIA,SF,5.17%
+195,nba,2011,,Vince Carter,DAL,SG,5.17%
+196,nba,2011,,Jeff Foster,IND,C,5.17%
+197,nba,2011,,Josh McRoberts,LAL,PF,5.17%
+198,nba,2011,,Travis Outlaw,SAC,SF,5.17%
+199,nba,2011,,Chris Wilcox,BOS,PF,5.17%
+200,nba,2011,,Shawne Williams,NJN,SF,5.17%
+201,nba,2011,202,Brandon Rush,GSW,SG,5.09%
+202,nba,2011,203,Anthony Randolph,MIN,PF,5.02%
+203,nba,2011,204,Robin Lopez,PHX,C,4.93%
+204,nba,2011,205,Jordan Hill,LAC,C,4.92%
+205,nba,2011,206,Bismack Biyombo,CHA,C,4.82%
+206,nba,2011,207,Al-Farouq Aminu,NOH,SF,4.75%
+207,nba,2011,208,Eduardo Najera,CHA,PF,4.74%
+208,nba,2011,209,Marreese Speights,MEM,PF,4.69%
+209,nba,2011,210,Dahntay Jones,IND,SF,4.65%
+210,nba,2011,211,Ekpe Udoh,GSW,C,4.57%
+211,nba,2011,212,Roy Hibbert,IND,C,4.46%
+212,nba,2011,213,Brandon Knight,DET,PG,4.42%
+213,nba,2011,214,Ersan Ilyasova,MIL,PF,4.38%
+214,nba,2011,215,Gordon Hayward,UTA,SF,4.36%
+215,nba,2011,216,Aaron Gray,TOR,C,4.31%
+216,nba,2011,,Kenyon Martin,LAC,PF,4.31%
+217,nba,2011,,Jason Smith,NOH,PF,4.31%
+218,nba,2011,,DeShawn Stevenson,NJN,SF,4.31%
+219,nba,2011,220,Brandon Jennings,MIL,PG,4.30%
+220,nba,2011,221,JaVale McGee,DEN,C,4.24%
+221,nba,2011,222,Quentin Richardson,ORL,PF,4.21%
+222,nba,2011,223,Paul George,IND,SG,4.15%
+223,nba,2011,224,Louis Amundson,IND,PF,4.14%
+224,nba,2011,225,J.R. Smith,NYK,SG,4.10%
+225,nba,2011,226,Kemba Walker,CHA,PG,4.06%
+226,nba,2011,227,J.J Hickson,POR,PF,4.06%
+227,nba,2011,228,Derek Fisher,OKC,PG,4.01%
+228,nba,2011,229,Cole Aldrich,OKC,C,3.94%
+229,nba,2011,230,Gerald Henderson,CHA,SG,3.88%
+230,nba,2011,231,Anthony Parker,CLE,SG,3.88%
+231,nba,2011,232,Ben Wallace,DET,C,3.87%
+232,nba,2011,233,Ryan Anderson,ORL,PF,3.87%
+233,nba,2011,234,Jimmer Fredette,SAC,PG,3.86%
+234,nba,2011,235,Courtney Lee,HOU,SG,3.83%
+235,nba,2011,236,Kosta Koufos,DEN,C,3.80%
+236,nba,2011,237,Xavier Henry,NOH,SG,3.74%
+237,nba,2011,238,Nicolas Batum,POR,SF,3.71%
+238,nba,2011,239,Josh Howard,UTA,SF,3.70%
+239,nba,2011,240,Tyler Hansbrough,IND,PF,3.68%
+240,nba,2011,241,Klay Thompson,GSW,SG,3.66%
+241,nba,2011,242,DeMar DeRozan,TOR,SG,3.64%
+242,nba,2011,243,Goran Dragic,HOU,PG,3.63%
+243,nba,2011,244,George Hill,IND,PG,3.59%
+244,nba,2011,245,Ed Davis,TOR,PF,3.55%
+245,nba,2011,246,Anthony Tolliver,MIN,PF,3.53%
+246,nba,2011,247,Darrell Arthur,MEM,PF,3.49%
+247,nba,2011,248,Alec Burks,UTA,SG,3.48%
+248,nba,2011,249,Reggie Williams,CHA,SF,3.47%
+249,nba,2011,250,D.J. White,CHA,PF,3.45%
+250,nba,2011,251,Chauncey Billups,LAC,PG,3.45%
+251,nba,2011,,Dante Cunningham,MEM,PF,3.45%
+252,nba,2011,,Earl Watson,UTA,PG,3.45%
+253,nba,2011,254,Patrick Patterson,HOU,PF,3.38%
+254,nba,2011,255,Austin Daye,DET,PF,3.32%
+255,nba,2011,256,Markieff Morris,PHX,PF,3.31%
+256,nba,2011,257,Matt Barnes,LAL,SF,3.27%
+257,nba,2011,258,Larry Sanders,MIL,C,3.21%
+258,nba,2011,259,Omer Asik,CHI,C,3.20%
+259,nba,2011,260,James Johnson,TOR,PF,3.16%
+260,nba,2011,261,Marcus Morris Sr.,HOU,PF,3.14%
+261,nba,2011,262,Luke Babbitt,POR,SF,3.05%
+262,nba,2011,263,Jrue Holiday,PHI,PG,3.00%
+263,nba,2011,264,Kawhi Leonard,SAS,SF,2.98%
+264,nba,2011,265,Kevin Seraphin,WAS,PF,2.90%
+265,nba,2011,266,Ty Lawson,DEN,PG,2.85%
+266,nba,2011,267,Nikola Vucevic,PHI,C,2.83%
+267,nba,2011,268,Eric Bledsoe,LAC,PG,2.75%
+268,nba,2011,269,Jeff Teague,ATL,PG,2.72%
+269,nba,2011,270,Gustavo Ayon,NOH,PF,2.70%
+270,nba,2011,271,Iman Shumpert,NYK,SG,2.69%
+271,nba,2011,272,Avery Bradley,BOS,SG,2.63%
+272,nba,2011,273,Eric Maynor,OKC,PG,2.61%
+273,nba,2011,274,Jeff Ayres,IND,PF,2.58%
+274,nba,2011,,Gary Forbes,TOR,SF,2.58%
+275,nba,2011,,James Jones,MIA,SG,2.58%
+276,nba,2011,,Sebastian Telfair,PHX,PG,2.58%
+277,nba,2011,278,Chris Singleton,WAS,SF,2.56%
+278,nba,2011,279,James Anderson,SAS,SG,2.52%
+279,nba,2011,280,Darren Collison,IND,PG,2.51%
+280,nba,2011,281,Tobias Harris,MIL,PF,2.44%
+281,nba,2011,282,Willie Green,ATL,SF,2.33%
+282,nba,2011,,Vladimir Radmanovic,ATL,SF,2.33%
+283,nba,2011,,Brian Scalabrine,CHI,PF,2.33%
+284,nba,2011,,Kurt Thomas,POR,PF,2.33%
+285,nba,2011,286,Elliot Williams,POR,SG,2.32%
+286,nba,2011,287,Omri Casspi,SAC,SF,2.31%
+287,nba,2011,288,Nolan Smith,POR,PG,2.25%
+288,nba,2011,289,Hamed Haddadi,MEM,C,2.24%
+289,nba,2011,290,Trevor Booker,WAS,PF,2.23%
+290,nba,2011,291,Serge Ibaka,OKC,PF,2.22%
+291,nba,2011,,B.J. Mullens,CHA,PF,2.22%
+292,nba,2011,293,Kenneth Faried,DEN,PF,2.16%
+293,nba,2011,294,Rodrigue Beaubois,DAL,PG,2.13%
+294,nba,2011,295,Reggie Evans,LAC,PF,2.12%
+295,nba,2011,,Mike James,CHI,PG,2.12%
+296,nba,2011,,Jamaal Tinsley,UTA,PG,2.12%
+297,nba,2011,298,Brian Cook,DEN,PF,2.11%
+298,nba,2011,,Jannero Pargo,ATL,PG,2.11%
+299,nba,2011,300,Royal Ivey,OKC,PG,2.07%
+300,nba,2011,301,Dominique Jones,DAL,SG,2.06%
+301,nba,2011,302,Earl Clark,ORL,SF,2.00%
+302,nba,2011,303,Reggie Jackson,OKC,PG,1.99%
+303,nba,2011,304,Quincy Pondexter,MEM,SG,1.99%
+304,nba,2011,305,Toney Douglas,NYK,SG,1.97%
+305,nba,2011,306,Jordan Crawford,WAS,SG,1.93%
+306,nba,2011,307,Greivis Vasquez,NOH,PG,1.92%
+307,nba,2011,308,Christian Eyenga,CLE,PG,1.89%
+308,nba,2011,,Lazar Hayward,OKC,PF,1.89%
+309,nba,2011,310,Jordan Hamilton,DEN,SF,1.85%
+310,nba,2011,311,MarShon Brooks,NJN,SG,1.83%
+311,nba,2011,312,JaJuan Johnson,BOS,PF,1.80%
+312,nba,2011,313,Norris Cole,MIA,PG,1.78%
+313,nba,2011,314,Jimmy Butler,CHI,SG,1.76%
+314,nba,2011,315,Jon Brockman,MIL,SF,1.72%
+315,nba,2011,,Jermey Pargo,MEM,PG,1.72%
+316,nba,2011,317,Steve Novak,NYK,SF,1.71%
+317,nba,2011,,Von Wafer,ORL,PG,1.71%
+318,nba,2011,,Shelden Williams,NJN,C,1.71%
+319,nba,2011,320,DeJaun Blair,SAS,C,1.70%
+320,nba,2011,321,Taj Gibson,CHI,PF,1.66%
+321,nba,2011,322,Sam Young,MEM,SF,1.63%
+322,nba,2011,323,Cory Joseph,SAS,PG,1.62%
+323,nba,2011,324,Wayne Ellington,MIN,SG,1.60%
+324,nba,2011,325,John Lucas III,CHI,PG,1.58%
+325,nba,2011,,Brandan Wright,DAL,PF,1.58%
+326,nba,2011,327,Chase Budinger,HOU,SF,1.52%
+327,nba,2011,,Ian Mahinmi,DAL,C,1.52%
+328,nba,2011,,Jodie Meeks,PHI,SG,1.52%
+329,nba,2011,,A.J. Price,IND,PG,1.52%
+330,nba,2011,331,Daniel Orton,ORL,C,1.52%
+331,nba,2011,332,Tony Battie,PHI,PF,1.47%
+332,nba,2011,,Mike Bibby,NYK,PG,1.47%
+333,nba,2011,,Derrick Brown,CHA,PG,1.47%
+334,nba,2011,,Jason Collins,ATL,C,1.47%
+335,nba,2011,,Marquis Daniels,BOS,SF,1.47%
+336,nba,2011,,Baron Davis,NYK,PG,1.47%
+337,nba,2011,,Maurice Evans,WAS,SG,1.47%
+338,nba,2011,,Alonzo Gee,CLE,SF,1.47%
+339,nba,2011,,Jared Jeffries,NYK,PF,1.47%
+340,nba,2011,,Tracy McGrady,ATL,SG,1.47%
+341,nba,2011,,Troy Murphy,LAL,PF,1.47%
+342,nba,2011,,Sasha Pavlovic,BOS,SG,1.47%
+343,nba,2011,,Mickael Pietrus,BOS,SF,1.47%
+344,nba,2011,,Ronnie Price,PHX,PG,1.47%
+345,nba,2011,,Jerry Stackhouse,ATL,SF,1.47%
+346,nba,2011,,Delonte West,DAL,PG,1.47%
+347,nba,2011,348,Chandler Parsons,HOU,SF,1.46%
+348,nba,2011,349,Solomon Alabi,TOR,C,1.43%
+349,nba,2011,350,Michael Redd,PHX,SG,1.42%
+350,nba,2011,351,Lance Stephenson,IND,SG,1.38%
+351,nba,2011,352,Nate Robinson,GSW,PG,1.35%
+352,nba,2011,353,Tyler Honeycutt,SAC,SF,1.34%
+353,nba,2011,354,Yi Jianlian,DAL,PF,1.33%
+354,nba,2011,355,Devin Ebanks,LAL,SF,1.31%
+355,nba,2011,,Jeremy Evans,UTA,SF,1.31%
+356,nba,2011,,Dexter Pittman,MIA,C,1.31%
+357,nba,2011,,Hassan Whiteside,SAC,C,1.31%
+358,nba,2011,359,Eddy Curry,MIA,C,1.23%
+359,nba,2011,,T.J. Ford,SAS,PG,1.23%
+360,nba,2011,,Juwan Howard,MIA,PF,1.23%
+361,nba,2011,,Craig Smith,POR,PF,1.23%
+362,nba,2011,363,Danny Green,SAS,SG,1.18%
+363,nba,2011,,Damien Wilkins,DET,SG,1.18%
+364,nba,2011,365,Joel Przybilla,POR,C,1.13%
+365,nba,2011,366,Jeremy Tyler,GSW,PF,1.12%
+366,nba,2011,367,Semih Erden,CLE,C,1.06%
+367,nba,2011,,Landry Fields,NYK,SF,1.06%
+368,nba,2011,,Luke Harangody,CLE,PF,1.06%
+369,nba,2011,,Jeremy Lin,NYK,PG,1.06%
+370,nba,2011,,Gary Neal,SAS,PG,1.06%
+371,nba,2011,,Samardo Samuels,CLE,C,1.06%
+372,nba,2011,,Greg Stiemsma,BOS,C,1.06%
+373,nba,2011,374,Mike James,CHI,PG,0.99%
+374,nba,2011,375,Josh Selby,MEM,PG,0.95%
+375,nba,2011,376,Ishmael Smith,ORL,PG,0.90%
+376,nba,2011,377,Malcolm Lee,MIN,SG,0.86%
+377,nba,2011,378,LaVoy Allen,PHI,PF,0.82%
+378,nba,2011,,Andrew Goudelock,LAL,PG,0.82%
+379,nba,2011,,Justin Harper,ORL,SF,0.82%
+380,nba,2011,,Charles Jenkins,GSW,PG,0.82%
+381,nba,2011,,Ivan Johnson,ATL,PF,0.82%
+382,nba,2011,,Travis Leslie,LAC,SG,0.82%
+383,nba,2011,,Jon Leuer,MIL,PF,0.82%
+384,nba,2011,,DeAndre Liggins,ORL,SG,0.82%
+385,nba,2011,,Shelvin Mack,WAS,PG,0.82%
+386,nba,2011,,Darius Morris,LAL,PG,0.82%
+387,nba,2011,,Greg Smith,HOU,C,0.82%
+388,nba,2011,,Julyan Stone,DEN,PG,0.82%
+389,nba,2011,,Isaiah Thomas,SAC,PG,0.82%
+390,nba,2011,,Trey Thompkins,LAC,PF,0.82%
+391,nba,2011,,Jordan Williams,NJN,PF,0.82%
+392,nba,2011,,Chris Wright,GSW,SF,0.82%
+393,nba,2011,394,Kyrylo Fesenko,IND,C,0.75%
+394,nba,2011,395,DeMarre Carroll,UTA,SF,0.75%
+395,nba,2011,396,Andre Emmett,NJN,SG,0.72%
+396,nba,2011,397,Josh Harrellson,NYK,PF,0.66%
+397,nba,2011,,Terrel Harris,MIA,SG,0.66%
+398,nba,2011,,Cory Higgins,CHA,SG,0.66%
+399,nba,2011,,Jerome Jordan,NYK,C,0.66%
+400,nba,2011,,Vernon Macklin,DET,C,0.66%
+401,nba,2011,,E'Twaun Moore,BOS,SG,0.66%
+402,nba,2011,403,Walker Russell Jr,DET,PG,0.64%
+403,nba,2011,404,Carlos Arroyo,BOS,PG,0.62%
+404,nba,2011,405,Gerald Green,NJN,SG,0.48%
+405,nba,2011,406,Gilbert Arenas,MEM,SG,0.47%
+406,nba,2011,407,Kelenna Azubuike,DAL,SF,0.47%
+407,nba,2011,408,Patty Mills,SAS,PG,0.45%
+408,nba,2011,409,Ryan Hollins,BOS,C,0.43%
+409,nba,2011,410,Bobby Simmons,LAC,SF,0.42%
+410,nba,2011,411,Boris Diaw,SAS,C,0.42%
+411,nba,2011,412,Erick Dampier,ATL,C,0.38%
+412,nba,2011,413,Mike James,CHI,PG,0.35%
+413,nba,2011,414,Manny Harris,CLE,SG,0.35%
+414,nba,2011,415,Terrence Williams,SAC,SG,0.32%
+415,nba,2011,416,Carldell Johnson,NOH,SG,0.31%
+416,nba,2011,417,Lance Thomas,NOH,SF,0.30%
+417,nba,2011,418,Courtney Fortson,HOU,SG,0.20%
+418,nba,2011,419,Mickell Gladness,GSW,PF,0.17%
+419,nba,2011,420,Jamorio Moon,CHA,PF,0.17%
+420,nba,2011,421,Earl Boykins,HOU,PG,0.14%
+421,nba,2011,,James Singleton,WAS,SF,0.14%
+422,nba,2011,423,Alan Anderson,TOR,SG,0.13%
+423,nba,2011,,Mikki Moore,GSW,PF,0.13%
+424,nba,2011,425,Dan Gadzuric,NYK,C,0.12%
+425,nba,2011,426,Diamon Simpson,HOU,PF,0.10%
+426,nba,2011,427,Sean Williams,BOS,PF,0.09%
+427,nba,2011,428,Blake Ahearn,UTA,SG,0.08%
+428,nba,2011,,Lester Hudson,MEM,PG,0.08%
+429,nba,2011,430,Edwin Ubiles,WAS,SG,0.07%
+430,nba,2011,431,Armon Johnson,NJN,PG,0.06%
+431,nba,2011,432,D.J. Kennedy,CLE,SG,0.03%
+432,nba,2011,433,Xavier Silas,PHI,SG,0.02%
+433,nba,2011,434,Morris Almond,WAS,SG,0.01%
+434,nba,2011,1,F,,,49
+435,nba,2011,2,G,,,28
+436,nba,2011,3,C,,,23
+437,nba,2011,1,DAL,,,6
+438,nba,2011,2,ATL,,,5
+439,nba,2011,3,BOS,,,5
+440,nba,2011,4,MIL,,,5
+441,nba,2011,5,ORL,,,5
+442,nba,2011,6,CHA,,,4
+443,nba,2011,7,DET,,,4
+444,nba,2011,8,GSW,,,4
+445,nba,2011,9,LAC,,,4
+446,nba,2011,10,LAL,,,4
+447,nba,2011,11,MEM,,,4
+448,nba,2011,12,SAS,,,4
+449,nba,2011,13,WAS,,,4
+450,nba,2011,14,CHI,,,3
+451,nba,2011,15,DEN,,,3
+452,nba,2011,16,HOU,,,3
+453,nba,2011,17,MIA,,,3
+454,nba,2011,18,NOH,,,3
+455,nba,2011,19,NYK,,,3
+456,nba,2011,20,PHI,,,3
+457,nba,2011,21,PHX,,,3
+458,nba,2011,22,POR,,,3
+459,nba,2011,23,TOR,,,3
+460,nba,2011,24,UTA,,,3
+461,nba,2011,25,CLE,,,2
+462,nba,2011,26,IND,,,2
+463,nba,2011,27,NJN,,,2
+464,nba,2011,28,OKC,,,2
+465,nba,2011,29,SAC,,,1
+466,nba,2011,1,F,,,49
+467,nba,2011,2,G,,,28
+468,nba,2011,3,C,,,23
+469,nba,2011,1,DAL,,,6
+470,nba,2011,2,ATL,,,5
+471,nba,2011,3,BOS,,,5
+472,nba,2011,4,MIL,,,5
+473,nba,2011,5,ORL,,,5
+474,nba,2011,6,CHA,,,4
+475,nba,2011,7,DET,,,4
+476,nba,2011,8,GSW,,,4
+477,nba,2011,9,LAC,,,4
+478,nba,2011,10,LAL,,,4
+479,nba,2011,11,MEM,,,4
+480,nba,2011,12,SAS,,,4
+481,nba,2011,13,WAS,,,4
+482,nba,2011,14,CHI,,,3
+483,nba,2011,15,DEN,,,3
+484,nba,2011,16,HOU,,,3
+485,nba,2011,17,MIA,,,3
+486,nba,2011,18,NOH,,,3
+487,nba,2011,19,NYK,,,3
+488,nba,2011,20,PHI,,,3
+489,nba,2011,21,PHX,,,3
+490,nba,2011,22,POR,,,3
+491,nba,2011,23,TOR,,,3
+492,nba,2011,24,UTA,,,3
+493,nba,2011,25,CLE,,,2
+494,nba,2011,26,IND,,,2
+495,nba,2011,27,NJN,,,2
+496,nba,2011,28,OKC,,,2
+497,nba,2011,29,SAC,,,1

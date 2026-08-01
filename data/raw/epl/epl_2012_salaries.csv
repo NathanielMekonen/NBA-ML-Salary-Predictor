@@ -1,0 +1,90 @@
+,league,season,rank,player,team,position,salary
+0,epl,2012,1,Oscar,CHE,M,"£25,517,266"
+1,epl,2012,2,Lukas Podolski,ARS,F,"£16,124,000"
+2,epl,2012,3,Mikel Arteta,ARS,M,"£14,460,000"
+3,epl,2012,4,Marko Marin,CHE,M,"£10,163,029"
+4,epl,2012,5,Demba Ba,CHE,F,"£9,564,305"
+5,epl,2012,6,Wayne Rooney,MUN,F,"£9,360,000"
+6,epl,2012,7,Eden Hazard,CHE,M,"£7,800,000"
+7,epl,2012,,John Terry,CHE,D,"£7,800,000"
+8,epl,2012,9,Petr Cech,CHE,GK,"£6,240,000"
+9,epl,2012,10,Gary Cahill,CHE,D,"£4,680,000"
+10,epl,2012,11,Ron Vlaar,AVA,D,"£4,640,000"
+11,epl,2012,12,Santi Cazorla,ARS,M,"£4,160,000"
+12,epl,2012,,Joe Hart,MCI,GK,"£4,160,000"
+13,epl,2012,14,Matthew Lowton,AVA,D,"£4,080,000"
+14,epl,2012,15,David De Gea,MUN,GK,"£3,900,000"
+15,epl,2012,,Branislav Ivanovic,CHE,D,"£3,900,000"
+16,epl,2012,17,Joe Bennett,AVA,D,"£3,550,000"
+17,epl,2012,18,Alex Oxlade-Chamberlain,ARS,M,"£3,380,000"
+18,epl,2012,19,Karim El Ahmadi,AVA,M,"£3,240,000"
+19,epl,2012,20,Christian Benteke,AVA,F,"£3,120,000"
+20,epl,2012,,Thibaut Courtois,CHE,GK,"£3,120,000"
+21,epl,2012,,Jermain Defoe,TOT,F,"£3,120,000"
+22,epl,2012,,Olivier Giroud,ARS,F,"£3,120,000"
+23,epl,2012,,Per Mertesacker,ARS,D,"£3,120,000"
+24,epl,2012,,Theo Walcott,ARS,F,"£3,120,000"
+25,epl,2012,26,Ashley Westwood,AVA,M,"£2,980,000"
+26,epl,2012,27,Aaron Ramsey,ARS,M,"£2,860,000"
+27,epl,2012,28,Tim Krul,NEW,GK,"£2,600,000"
+28,epl,2012,,Victor Moses,CHE,D,"£2,600,000"
+29,epl,2012,,Wojciech Szczesny,ARS,GK,"£2,600,000"
+30,epl,2012,31,Yacouba Sylla,AVA,M,"£2,370,000"
+31,epl,2012,32,Danny Drinkwater,LEI,M,"£2,340,000"
+32,epl,2012,,Kevin Mirallas,EVE,F,"£2,340,000"
+33,epl,2012,,Ryan Shawcross,STK,D,"£2,340,000"
+34,epl,2012,35,Vurnon Anita,NEW,D,"£1,820,000"
+35,epl,2012,,Philippe Coutinho,LIV,M,"£1,820,000"
+36,epl,2012,,Yoan Gouffran,NEW,M,"£1,820,000"
+37,epl,2012,38,César Azpilicueta,CHE,D,"£1,560,000"
+38,epl,2012,,Francis Coquelin,ARS,M,"£1,560,000"
+39,epl,2012,,Kieran Gibbs,ARS,D,"£1,560,000"
+40,epl,2012,,Carl Jenkinson,ARS,D,"£1,560,000"
+41,epl,2012,,Raheem Sterling,LIV,F,"£1,560,000"
+42,epl,2012,43,Shay Given,AVA,GK,"£1,300,000"
+43,epl,2012,44,Asmir Begovic,STK,GK,"£1,040,000"
+44,epl,2012,,Massadio Haidara,NEW,D,"£1,040,000"
+45,epl,2012,46,Lucas Piazón,CHE,F,"£832,000"
+46,epl,2012,47,Enda Stevens,AVA,D,"£697,147"
+47,epl,2012,48,Mathieu Debuchy,NEW,D,"£676,000"
+48,epl,2012,49,Curtis Good,NEW,D,"£624,000"
+49,epl,2012,50,Chris Herd,AVA,M,"£446,147"
+50,epl,2012,51,Rohan Ince,BRH,M,"£364,000"
+51,epl,2012,52,Steve Cook,BOU,D,"£312,000"
+52,epl,2012,53,Jordon Ibe,LIV,M,"£260,000"
+53,epl,2012,54,Harry Arter,BOU,M,"£104,000"
+54,epl,2012,55,Harry Cornick,BOU,M,"£39,000"
+55,epl,2012,1,M,,,19
+56,epl,2012,2,D,,,18
+57,epl,2012,3,F,,,10
+58,epl,2012,4,GK,,,8
+59,epl,2012,1,ARS,,,12
+60,epl,2012,2,CHE,,,12
+61,epl,2012,3,AVA,,,10
+62,epl,2012,4,NEW,,,6
+63,epl,2012,5,BOU,,,3
+64,epl,2012,6,LIV,,,3
+65,epl,2012,7,MUN,,,2
+66,epl,2012,8,STK,,,2
+67,epl,2012,9,BRH,,,1
+68,epl,2012,10,EVE,,,1
+69,epl,2012,11,LEI,,,1
+70,epl,2012,12,MCI,,,1
+71,epl,2012,13,TOT,,,1
+72,epl,2012,1,M,,,19
+73,epl,2012,2,D,,,18
+74,epl,2012,3,F,,,10
+75,epl,2012,4,GK,,,8
+76,epl,2012,1,ARS,,,12
+77,epl,2012,2,CHE,,,12
+78,epl,2012,3,AVA,,,10
+79,epl,2012,4,NEW,,,6
+80,epl,2012,5,BOU,,,3
+81,epl,2012,6,LIV,,,3
+82,epl,2012,7,MUN,,,2
+83,epl,2012,8,STK,,,2
+84,epl,2012,9,BRH,,,1
+85,epl,2012,10,EVE,,,1
+86,epl,2012,11,LEI,,,1
+87,epl,2012,12,MCI,,,1
+88,epl,2012,13,TOT,,,1
